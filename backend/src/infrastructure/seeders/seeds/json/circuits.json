@@ -1,0 +1,33 @@
+[
+	{
+		"name": "Circuito de plazas",
+		"description": "Este es un circuito de plazas de Puerto Madryn",
+		"principalCategory": "Parques y jardines",
+		"places": [
+			"Plaza Puerto Madryn",
+			"Plaza Juan Muzzio",
+			"Plaza Los Médanos",
+			"Plaza El Desembarco",
+			"Plaza escritores patagonicos",
+			"Plaza España",
+			"Plaza Euzkadi"
+		]
+	},
+	{
+		"name": "Circuito de monumentos",
+		"description": "Este es un circuito de monumentos en Puerto Madryn",
+		"principalCategory": "Monumentos y sitios históricos",
+		"places": [
+			"Monumento al General San Martín",
+			"Monumento a los Pioneros del buceo",
+			"Monumento al Indio Tehuelche",
+			"Monumento a la Bandera"
+		]
+	},
+	{
+		"name": "Circuito de museos",
+		"description": "Este es un circuito de museos en Puerto Madryn",
+		"principalCategory": "Museos y galerías",
+		"places": ["Gemas", "Municipal Museum of Art"]
+	}
+]

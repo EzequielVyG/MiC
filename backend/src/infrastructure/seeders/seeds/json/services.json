@@ -1,0 +1,44 @@
+[
+	{
+		"name": "WiFi"
+	},
+	{
+		"name": "WiFi Gratuito"
+	},
+	{
+		"name": "Sanitarios"
+	},
+	{
+		"name": "Servicio de Habitación"
+	},
+	{
+		"name": "Piscina"
+	},
+	{
+		"name": "Gimnasio"
+	},
+	{
+		"name": "Estacionamiento"
+	},
+	{
+		"name": "Restaurante en el Hotel"
+	},
+	{
+		"name": "Centro de Negocios"
+	},
+	{
+		"name": "Servicio de Lavandería"
+	},
+	{ "name": "Retiros en la puerta" },
+	{ "name": "Entrega a domicilio" },
+	{ "name": "Comer en el lugar" },
+	{ "name": "Reservable" },
+	{ "name": "Sirve cerveza" },
+	{ "name": "Sirve desayuno" },
+	{ "name": "Sirve brunch" },
+	{ "name": "Sirve cena" },
+	{ "name": "Sirve almuerzo" },
+	{ "name": "Sirve comida vegetariana" },
+	{ "name": "Sirve vino" },
+	{ "name": "Para llevar" }
+]

@@ -1,0 +1,23 @@
+[
+	{
+		"name": "LUNES"
+	},
+	{
+		"name": "MARTES"
+	},
+	{
+		"name": "MIERCOLES"
+	},
+	{
+		"name": "JUEVES"
+	},
+	{
+		"name": "VIERNES"
+	},
+	{
+		"name": "SABADO"
+	},
+	{
+		"name": "DOMINGO"
+	}
+]

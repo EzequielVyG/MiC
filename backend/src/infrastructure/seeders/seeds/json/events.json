@@ -1,0 +1,124 @@
+[
+	{
+		"name": "Morgan Threeman + Friends",
+		"description": "Despedida del año con TODO!! Previo al concierto 19:30h estará disponible en el hall del teatro una degustación de 3 variedades del excelente café de los amigos de @jarillatiendadecafe acompañado por unas cookies  … Y una vez finalizado el concierto habrá un SORTEO!! Con el número de entrada X 2 Órdenes de Compra de $5000, de los amigos de @fussdeporte y una remera de gentileza de @valerialuna_carteras_zapatos agradecemos infinitamente a tod@s l@s invitad@s y auspiciantes  @bonfilioheladeria @cerveza_artesana @la5tacerveza y @quinchoelgalpon Gracias a tod@s l@s amig@s que se suman a esta fiesta!! Agradecemos la difusión!! Los esperamos en @elunoylabelleza que nos oferece comodidad y excelente sonido siempre!",
+		"cmi": "+54",
+		"phone": "123 456 7890",
+		"minors": "APTA TODO PUBLICO",
+		"place": {
+			"name": "Histórico Punta Cuevas Park",
+			"domicile": "Puerto Madryn"
+		},
+		"creator": {
+			"email": "admin@admin.com"
+		},
+		"startDate": "2023-10-15T09:00:00Z",
+		"endDate": "2023-10-15T18:00:00Z",
+		"price": "$3000,00",
+		"url": "https://example.com/event1",
+		"status": "SCHEDULED",
+		"principalCategory": "Eventos culturales y artisticos",
+		"participants": [
+			{
+				"role": "Organizador",
+				"organization": {
+					"legalName": "UNPSJB"
+				},
+				"status": "Accepted"
+			},
+			{
+				"role": "Contenido",
+				"organization": {
+					"legalName": "CAMAD"
+				},
+				"status": "Accepted"
+			}
+		],
+		"flyers": [
+			"https://mic.dynalias.com:4002/event-3fd9753d-65bd-4d38-b7a1-eebf687c895e/4ef1b1b096fb463e5187aafeb665a0e3.jpeg"
+		]
+	},
+	{
+		"name": "Cotton Jazz Club - Blue Moon",
+		"description": "🟡 Groovefela te invita a *Cotton Club*, el mejor *Jazz* en el ambiente justo. Conocemos la escena del jazz en la Patagonia y sabemos que está colmada de grandes artistas. Por eso, creemos importante realizar ese maridaje entre la música, la gastronomía y la coctelería en un lugar acorde que propicie aquellos placeres. 👉🏽 Creemos que *Fervor* es el espacio indicado para disfrutar de un *ciclo* de calidad, donde las luces tenues y la calidad del jazz sirvan como excusa para permitirse cortar la semana un *Jueves* después del trabajo. 🙌🏽  Este hermoso ciclo sigue con increíbles artistas en la segunda edición de Cotton Club: Blue Moon : Mariano Giannino   Bajo Julián Meza             Piano/Voz Axel Sánchez.          Bateria Alanis Sottomano   Voz 🗓️ Jueves 09 de Noviembre 🕣 20.30Hs 📍 Fervor (Av. Rawson 153, Puerto Madryn) Bartender Flora Veuthey",
+		"cmi": "+54",
+		"phone": "987 654 3210",
+		"minors": "+18",
+		"place": {
+			"name": "Monumento al Indio Tehuelche"
+		},
+		"creator": {
+			"email": "admin@admin.com"
+		},
+		"startDate": "2023-09-01T10:30:00Z",
+		"endDate": "2023-09-30T16:00:00Z",
+		"price": "Gratuito",
+		"url": "https://groovefela.com/producto/cotton-jazz-club-blue-moon/",
+		"status": "SCHEDULED",
+		"principalCategory": "Festivales, ferias y convenciones",
+		"participants": [],
+		"flyers": [
+			"https://mic.dynalias.com:4002/event-74f45388-b7ff-4fd4-9ad8-f5e4665b9ddf/e3b8871f7558c4da39e7723f8caa0481.png"
+		]
+	},
+	{
+		"name": "Ezequiel Campa - Si pero No",
+		"description": "Se viene a @eltabladocentrocultural este grosso del humpor!! Ezequiel Campa, @ezequielcampa con más de 15 años de experiencia, es uno de los referentes del stand, con presentaciones permanentes en escenarios de Argentina y el mundo. Presenta en 2023 su quinto espectáculo de stand up que se llama Si pero No, por el que fue nominado a Mejor Show de Stand Up en los Premios Estrella de Mar 2023. Premio que ya había recibido en 2021 por su show anterior, Cheto y Choto.",
+		"cmi": "+54",
+		"phone": "555 123 4567",
+		"minors": "+13",
+		"place": {
+			"name": "Plazoleta de los Desaparecidos en el Mar"
+		},
+		"creator": {
+			"email": "admin@admin.com"
+		},
+		"startDate": "2023-12-24T14:00:00Z",
+		"endDate": "2023-12-24T20:00:00Z",
+		"price": "$10,00",
+		"url": "https://example.com/event3",
+		"status": "SCHEDULED",
+		"principalCategory": "Festivales, ferias y convenciones",
+		"participants": [
+			{
+				"role": "Organizador",
+				"organization": {
+					"legalName": "CAMAD"
+				},
+				"status": "Accepted"
+			}
+		],
+		"flyers": [
+			"https://mapainteractivocultural.com.ar:4002/event-564fc2f9-1e9b-4b4d-b368-095bebf3b188/3842e10cb9e361f607e14b6e1768f3ad.png"
+		]
+	},
+	{
+		"name": "Evento 3",
+		"description": "Descripción del Evento 3",
+		"cmi": "+54",
+		"phone": "555 123 4567",
+		"minors": "+13",
+		"place": {
+			"name": "Plazoleta de los Desaparecidos en el Mar"
+		},
+		"creator": {
+			"email": "admin@admin.com"
+		},
+		"startDate": "2023-09-01T14:00:00Z",
+		"endDate": "2023-09-01T20:00:00Z",
+		"price": "$10,00",
+		"url": "https://example.com/event3",
+		"status": "FINISHED",
+		"principalCategory": null,
+		"participants": [
+			{
+				"role": "Organizador",
+				"organization": {
+					"legalName": "CAMAD"
+				},
+				"status": "Accepted"
+			}
+		],
+		"flyers": []
+	}
+]

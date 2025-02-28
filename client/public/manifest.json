@@ -1,0 +1,16 @@
+{
+	"name": "MIC APP",
+	"short_name": "MIC",
+	"description": "Aplicación de MIC",
+	"start_url": "/",
+	"display": "standalone",
+	"background_color": "#FFFFFF",
+	"theme_color": "#FFFFFF",
+	"icons": [
+		{
+			"src": "/logo_manifiesto.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}

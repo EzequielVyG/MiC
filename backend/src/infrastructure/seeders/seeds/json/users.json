@@ -1,0 +1,127 @@
+[
+	{
+		"email": "admin@admin.com",
+		"name": "admin",
+		"password": "MiC4cc3So2023",
+		"status": "ACTIVE",
+		"roles": ["ADMIN"],
+		"preferences": {
+			"initialContext": "PLACES",
+			"categories": []
+		}
+	},
+	{
+		"email": "example@example.com",
+		"name": "example",
+		"password": "example",
+		"status": "PENDING",
+		"roles": ["CONSUMIDOR"],
+		"preferences": {
+			"initialContext": "PLACES",
+			"categories": []
+		}
+	},
+	{
+		"email": "lautaroverdii@gmail.com",
+		"name": "Lautaro",
+		"password": "test",
+		"status": "ACTIVE",
+		"roles": ["GESTION_MIC"],
+		"preferences": {
+			"initialContext": "PLACES",
+			"categories": []
+		}
+	},
+	{
+		"email": "ap.borda.c@gmail.com",
+		"name": "Paula",
+		"password": "test",
+		"status": "ACTIVE",
+		"roles": ["ADMIN"],
+		"preferences": {
+			"initialContext": "PLACES",
+			"categories": []
+		}
+	},
+	{
+		"email": "markeljaureguibehere@hotmail.com.ar",
+		"name": "Markel",
+		"password": "test",
+		"status": "ACTIVE",
+		"roles": ["GESTION_MIC"],
+		"preferences": {
+			"initialContext": "PLACES",
+			"categories": []
+		}
+	},
+	{
+		"email": "alejandro.solaleiva@gmail.com",
+		"name": "Alejandro",
+		"password": "test",
+		"status": "ACTIVE",
+		"roles": ["GESTION_MIC"],
+		"preferences": {
+			"initialContext": "PLACES",
+			"categories": [
+				{
+					"name": "Eventos de música en vivo y bandas locales"
+				}
+			]
+		}
+	},
+	{
+		"email": "medina.4gus@gmail.com",
+		"name": "Agustín",
+		"password": "test",
+		"status": "ACTIVE",
+		"roles": ["GESTION_MIC"],
+		"preferences": {
+			"initialContext": "PLACES",
+			"categories": []
+		}
+	},
+	{
+		"email": "evalleygarcia@gmail.com",
+		"name": "Ezequiel",
+		"password": "test",
+		"status": "ACTIVE",
+		"roles": ["GESTION_MIC"],
+		"preferences": {
+			"initialContext": "PLACES",
+			"categories": []
+		}
+	},
+	{
+		"email": "valenverdi17@gmail.com",
+		"name": "Valentino",
+		"password": "test",
+		"status": "ACTIVE",
+		"roles": ["GESTION_MIC"],
+		"preferences": {
+			"initialContext": "PLACES",
+			"categories": []
+		}
+	},
+	{
+		"email": "demian.barry@gmail.com",
+		"name": "Demián",
+		"password": "test",
+		"status": "ACTIVE",
+		"roles": ["GESTION_MIC"],
+		"preferences": {
+			"initialContext": "PLACES",
+			"categories": []
+		}
+	},
+	{
+		"email": "juanmanuelcortez@gmail.com",
+		"name": "Juan",
+		"password": "test",
+		"status": "ACTIVE",
+		"roles": ["GESTION_MIC"],
+		"preferences": {
+			"initialContext": "PLACES",
+			"categories": []
+		}
+	}
+]

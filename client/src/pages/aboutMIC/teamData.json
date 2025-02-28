@@ -1,0 +1,86 @@
+{
+	"distorProducciones": [
+		{
+			"name": "Pedro Baeck",
+			"linkedin": "https://www.linkedin.com/in/pedro-baeck-a57026107/"
+		},
+		{
+			"name": "Ignacio Besson",
+			"linkedin": "https://www.linkedin.com/in/ignacio-besson-76772014b/"
+		},
+		{
+			"name": "Matías Barry",
+			"linkedin": "https://www.linkedin.com/in/matiasbarry/"
+		},
+		{
+			"name": "Manuel Barry",
+			"linkedin": "https://www.linkedin.com/in/manuel-barry-895889140/"
+		}
+	],
+	"diseño": [
+		{
+			"name": "Nahuel Robledo",
+			"linkedin": "https://www.linkedin.com/in/pablo-nahuel-robledo-8878b920/"
+		}
+	],
+	"operacion": [
+		{
+			"name": "Gabriela Pastore",
+			"linkedin": "https://www.linkedin.com/in/gabriela-pastore-8a0b8826/"
+		},
+		{
+			"name": "Marina Ximena Donnet",
+			"linkedin": "https://www.linkedin.com/in/marinaximenadonnet/"
+		}
+	],
+	"propietario": [
+		{
+			"name": "CAMAD – Cámara de Industria, Comercio, Producción y Turismo de Puerto Madryn",
+			"linkedin": "https://camad.org.ar/"
+		}
+	],
+	"direccion": [
+		{
+			"name": "Demian Barry",
+			"linkedin": "https://www.linkedin.com/in/demianbarry/"
+		}
+	],
+	"equipoDesarrollo": [
+		{
+			"name": "Juan Manuel Cortez",
+			"linkedin": "https://www.linkedin.com/in/juan-manuel-cortez-0b199a29/"
+		},
+		{
+			"name": "Eric Hidalgo",
+			"linkedin": "https://www.linkedin.com/in/eric-hidalgo-72835b43/"
+		},
+		{
+			"name": "Paula Borda",
+			"linkedin": ""
+		},
+		{
+			"name": "Lautaro Verdi",
+			"linkedin": ""
+		},
+		{
+			"name": "Markel Jaureguibehere",
+			"linkedin": "https://www.linkedin.com/in/markel-jaureguibehere-34744b194/"
+		},
+		{
+			"name": "Alejandro Solá Leiva",
+			"linkedin": ""
+		},
+		{
+			"name": "Agustín Medina",
+			"linkedin": ""
+		},
+		{
+			"name": "Ezequiel Valle y García",
+			"linkedin": "https://www.linkedin.com/in/ezequiel-valle-y-garcia-62676023b/"
+		},
+		{
+			"name": "Valentino Verdi",
+			"linkedin": ""
+		}
+	]
+}

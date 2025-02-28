@@ -1,0 +1,32 @@
+[
+	{
+		"title": "Solicitud de evento",
+		"description": "La organización Ecocentro solicita organizar un evento en tu lugar Histórico Punta Cuevas Park.",
+		"receiver": {
+			"email": "admin@admin.com"
+		},
+		"status": "RECEIVED",
+		"link": "/request/events",
+		"timestamp": "2023-09-20T08:00:00Z"
+	},
+	{
+		"title": "Notificación 2",
+		"description": "Descripción de la notificación 2",
+		"receiver": {
+			"email": "admin@admin.com"
+		},
+		"status": "SEND",
+		"link": "",
+		"timestamp": "2023-09-18T14:30:00Z"
+	},
+	{
+		"title": "Notificación 3",
+		"description": "Descripción de la notificación 3",
+		"receiver": {
+			"email": "admin@admin.com"
+		},
+		"status": "SENT",
+		"link": "",
+		"timestamp": "2023-09-15T10:15:00Z"
+	}
+]

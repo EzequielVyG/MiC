@@ -1,0 +1,37 @@
+[
+	{
+		"question": "¿Cómo me registro?",
+		"answer": "Para registrarte en nuestra plataforma, tienes varias opciones:\n\n1. Abre la página de registro haciendo clic en el enlace 'Registrarse'.\n2. Completa el formulario de registro con la información solicitada, que incluye dirección de correo electrónico y contraseña.\n3. También puedes optar por registrarte de forma más rápida y sencilla utilizando tu cuenta de Google, Twitter, TikTok o Twitch. Simplemente haz clic en el botón correspondiente para vincular tu cuenta de una de estas plataformas.\n4. En caso de que elijas registrarte de la manera tradicional, haz clic en el botón de registrarse para crear tu cuenta.\n5. Recibirás un correo electrónico de confirmación. Abre el enlace de confirmación para activar tu cuenta.\n6. ¡Listo! Ahora puedes iniciar sesión con las credenciales que recién creaste o a través de una de las plataformas mencionadas.",
+		"button_route": "/register"
+	},
+	{
+		"question": "¿Cómo ingreso a la plataforma?",
+		"answer": "Para acceder a nuestra plataforma, sigue estos pasos:\n\n1. Abre la página de inicio de sesión haciendo clic en el enlace 'Iniciar sesión'.\n2. Ingresa tu dirección de correo electrónico y contraseña en los campos correspondientes.\n3. También puedes iniciar sesión de manera más rápida y cómoda utilizando tu cuenta de Google, Twitter, TikTok o Twitch. Haz clic en el botón correspondiente para iniciar sesión de esta manera.\n4. Haz clic en el botón 'Iniciar sesión'.\n5. Si los detalles son correctos, serás redirigido a tu página de inicio personalizada.",
+		"button_route": ""
+	},
+	{
+		"question": "¿Cómo gestiono mi perfil?",
+		"answer": "Puedes gestionar tu perfil de la siguiente manera:\n\n1. Inicia sesión en tu cuenta.\n2. Navega hasta tu perfil, haciendo clic en tu nombre de usuario en la esquina superior derecha.\n3. Desde tu perfil, podrás editar la información personal, como tu avatar, nombre, fecha de nacimiento y contraseña.\n4. Asegúrate de guardar los cambios después de realizar las ediciones haciendo clic en el botón 'Confirmar cambios'.",
+		"button_route": "/mi_perfil"
+	},
+	{
+		"question": "¿Cómo recupero mi contraseña?",
+		"answer": "Si olvidaste tu contraseña, aquí tienes cómo recuperarla:\n\n1. En la página de inicio de sesión, busca y haz clic en el enlace '¿Olvidaste tu contraseña?'.\n2. Se te pedirá que ingreses tu dirección de correo electrónico asociada con tu cuenta.\n3. Después de enviar tu dirección de correo electrónico, recibirás un enlace de restablecimiento en tu bandeja de entrada.\n4. Abre el enlace y sigue las instrucciones para restablecer tu contraseña. Proporciona una nueva contraseña y confírmala.\n5. Una vez completado, podrás iniciar sesión con tu nueva contraseña.",
+		"button_route": "/auth/signin"
+	},
+	{
+		"question": "¿Cómo modifico mi contraseña?",
+		"answer": "Si deseas cambiar tu contraseña por razones de seguridad, sigue estos pasos:\n\n1. Inicia sesión en tu cuenta.\n2. Navega hasta tu perfil, donde puedas encontrar la opción 'Cambiar contraseña'.\n3. Ingresa tu contraseña actual y luego proporciona tu nueva contraseña. Asegúrate de confirmarla correctamente.\n4. Guarda los cambios. Tu contraseña se actualizará y deberás usar la nueva contraseña la próxima vez que inicies sesión.",
+		"button_route": "/mi_perfil/change-password"
+	},
+	{
+		"question": "¿Puedo tener mi avatar?",
+		"answer": "Sí, puedes personalizar tu perfil con un avatar. Para agregar tu avatar:\n\n1. Inicia sesión en tu cuenta y ve a tu perfil.\n2. Busca la opción 'Cambiar imágen'.\n3. Puedes subir una imagen desde tu computadora o elegir una imagen de tu galería.\n4. Asegúrate de guardar los cambios después de subir tu avatar.",
+		"button_route": "/mi_perfil"
+	},
+	{
+		"question": "¿Cómo registro una organización?",
+		"answer": "Puedes registrar una organización de la siguiente manera:\n\n1. Inicia sesión en tu cuenta y ve a tu perfil.\n2. Busca el apartado 'Mis organizaciones' y luego 'Nueva organización'.\n3. Completa los campos requeridos para realizar el registro.\n4. Luego de terminar el registro tu organización estará en estado pendiente. Un administrador de MIC realizará la evaluación de los datos para aprobar el registro de la organización.",
+		"button_route": "/mi_perfil"
+	}
+]

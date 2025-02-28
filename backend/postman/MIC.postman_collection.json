@@ -1,0 +1,393 @@
+{
+	"info": {
+		"_postman_id": "2f5cfc13-493d-40d3-bd15-790c54514618",
+		"name": "MIC",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "28785071",
+		"_collection_link": "https://warped-trinity-594312.postman.co/workspace/My-Workspace~ae696683-a3a1-4ab1-89eb-385f77db9b38/collection/28785071-2f5cfc13-493d-40d3-bd15-790c54514618?action=share&source=collection_link&creator=28785071"
+	},
+	"item": [
+		{
+			"name": "Users",
+			"item": [
+				{
+					"name": "Get all",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8000/users",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"users"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Register",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"email\":\"hola@hola.com\",\n    \"password\":\"nada\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8000/users",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"users"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Login",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"email\":\"hola@hola.com\",\n    \"password\":\"nada\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8000/users/login",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"users",
+								"login"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Activate",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8000/users/activate/fe5529e8-80f5-4fe3-a996-5a3f779072bb",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"users",
+								"activate",
+								"fe5529e8-80f5-4fe3-a996-5a3f779072bb"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Update",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "New Request",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Categorias",
+			"item": [
+				{
+					"name": "Get all",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8000/categories",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"categories"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get by father",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"name\": \"Negocios y Servicios\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8000/categories/father",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"categories",
+								"father"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Organizations",
+			"item": [
+				{
+					"name": "Get all",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8000/organizations",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"organizations"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get by id",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8000/organizations/71c37aa8-8125-49a3-a195-2c65aa9af377",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"organizations",
+								"71c37aa8-8125-49a3-a195-2c65aa9af377"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Places",
+			"item": [
+				{
+					"name": "Get all",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8000/places",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"places"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Create place",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "name",
+									"value": "Hola",
+									"type": "text"
+								},
+								{
+									"key": "photos",
+									"type": "file",
+									"src": "/home/markel/Documentos/tesina/neo4j/results/WordCloudEma.png"
+								},
+								{
+									"key": "location",
+									"value": "{\"lat\":1,\"lng\":1}",
+									"type": "text"
+								}
+							]
+						},
+						"url": {
+							"raw": "http://localhost:8000/places",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"places"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get by ID",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "Edit Place",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n        \"id\": \"e2b85664-2665-49a4-b595-873dc4477c36\",\n        \"name\": \"Mi casita\",\n        \"description\": \"Explora la historia y la cultura en nuestro museoasdasdasd\",\n        \"note\": \"Una experiencia educativa y enriquecedoraasdasd\",\n        \"schedules\": [\n            {\n                \"id\": \"0ee4febc-d793-4cfd-a3a7-107b0b33d815\",\n                \"dayOfWeek\": {\n                    \"id\": \"8a8cbef4-5638-487a-96d7-710a7f1d4a45\",\n                    \"name\": \"MARTES\"\n                },\n                \"openingHour\": \"11:00:00\",\n                \"closingHour\": \"17:00:00\"\n            },\n            {\n                \"id\": \"7a40fbd0-3fe5-4418-a5d0-2fccf9e3632e\",\n                \"dayOfWeek\": {\n                    \"id\": \"cdaf042b-69c5-431d-a022-f738e384674e\",\n                    \"name\": \"VIERNES\"\n                },\n                \"openingHour\": \"10:00:00\",\n                \"closingHour\": \"17:00:00\"\n            },\n            {\n                \"id\": \"67ed1383-5505-4704-b9f0-b2ae5e147d1b\",\n                \"dayOfWeek\": {\n                    \"id\": \"46272399-4ea4-4bac-8da0-ccb78c543829\",\n                    \"name\": \"SABADO\"\n                },\n                \"openingHour\": \"10:00:00\",\n                \"closingHour\": \"13:00:00\"\n            }\n        ],\n        \"photos\": [],\n        \"principalCategory\": null,\n        \"categories\": [],\n        \"url\": null,\n        \"phone\": null,\n        \"domicile\": null,\n        \"origin\": \"WEB\",\n        \"location\": {\n            \"lat\": null,\n            \"lng\": null\n        }\n    }",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8000/places",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"places"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Event",
+			"item": [
+				{
+					"name": "Get All",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "http://localhost:8000/events",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"events"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get By ID",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "Create",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\n    \"name\":\"Evento Postman\",\n    \"description\": \"El mejor evento de Postman\",\n    \"phone\": \"No tenemos phone pero que eventazo\",\n    \"minors\":\"+18\",\n    \"place\": \"fachero Park\",\n    \"creator\": \"admin@admin.com\",\n    \"startDate\": \"2023-09-13\",\n    \"endDate\": \"2023-09-20\",\n    \"price\": \"pa la rocha beso y pa lo gile rafagazo\",\n    \"url\": \"tuvieja.com\"\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "http://localhost:8000/events",
+							"protocol": "http",
+							"host": [
+								"localhost"
+							],
+							"port": "8000",
+							"path": [
+								"events"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Get By User",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}

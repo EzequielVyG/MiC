@@ -1,0 +1,498 @@
+[
+  {
+    "address_components": [
+      {
+        "long_name": "&",
+        "short_name": "&",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Bartolomé Mitre",
+        "short_name": "Bartolomé Mitre",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Puerto Madryn",
+        "short_name": "Puerto Madryn",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Biedma",
+        "short_name": "Biedma",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Chubut",
+        "short_name": "Chubut",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Argentina",
+        "short_name": "AR",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "U9120",
+        "short_name": "U9120",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "28 de Julio, <span class=\"street-address\">Bartolomé Mitre &amp;</span>, <span class=\"postal-code\">U9120</span> <span class=\"locality\">Puerto Madryn</span>, <span class=\"region\">Chubut</span>, <span class=\"country-name\">Argentina</span>",
+    "business_status": "OPERATIONAL",
+    "formatted_address": "28 de Julio, Bartolomé Mitre &, U9120 Puerto Madryn, Chubut, Argentina",
+    "geometry": {
+      "location": {
+        "lat": -42.7672953,
+        "lng": -65.0366049
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.7658421197085,
+          "lng": -65.0349302697085
+        },
+        "southwest": {
+          "lat": -42.7685400802915,
+          "lng": -65.0376282302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Monumento al General San Martín",
+    "photos": [
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112703745563542563357\">Javier Facal</a>"
+        ],
+        "photo_reference": "AUacShhckVauWegdVONuJkq8jOvjQFS12SzT89smp4l8LlNoErWV3lhvA2UyCKyKogh4PDIeajsj_MPRc68lg1YLk1h0XheSOQb6FcPXnd7aKOukaV9fkgxUyGypyGxURfnX3VZacb-BQ-lu6doUl0wQSOtX-UJ6iLmuZiC5N8MkcHp1r9_n",
+        "width": 2604
+      },
+      {
+        "height": 2500,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112703745563542563357\">Javier Facal</a>"
+        ],
+        "photo_reference": "AUacShjMZLwYOZORxuHYzIZDeWk-4FnRmPtYU_-qNWhab6d1PhrEj6eqyNNa-u6IrBXS8AhYSAcQQYAUxZblXD0sqM6Y4JgCPKf1LrHtYmunq4E-KH4XC3Z6wfp5e_nFDJvFnd-ZAtnku61GZvvW1vB-rOd-ynVt6snLjeDcHi1AqTQRuHB_",
+        "width": 2231
+      },
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112703745563542563357\">Javier Facal</a>"
+        ],
+        "photo_reference": "AUacShgtFbevl0CwwIQUX-jSSUYCo1eYPgvmkGOn8J2_Pj3Zz7h7jBB9tJP6AUC639X4H67oqtpQ_TNhlPEYdCqYslGWe3f69OEyIH11mFlUmPTGEe4RIeiWBh3CObGXJ_5EPqcq25xL2Zk6D3a5S781qBo76lmuxPUwDfo6_TB7GPqwCtBs",
+        "width": 2604
+      },
+      {
+        "height": 1692,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112703745563542563357\">Javier Facal</a>"
+        ],
+        "photo_reference": "AUacShhtsddyMV1HwaSoHi9HWC-Ez2XDSsJR01pglzmDWmIsgLyddBQt1MREZumzcFnk_EfUPKh_xm9BsHu2Ig9F9UA647FHpZ91pIjdljIL8mfL6wgFDdgm2NV4Xegh6L_jW2eTo6HT5yZPGYn_GZxV8uvJb8aX7Pli0gngdnKNBFJTZQSA",
+        "width": 2304
+      },
+      {
+        "height": 1878,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112703745563542563357\">Javier Facal</a>"
+        ],
+        "photo_reference": "AUacShjxqnFM2p-GcXMHJK887bF_vMyvz-SqsR32WT9TkLMWcSE6e1RbpR8z8D2lrQDfAn15WwDUvYxZRSQRt6GsI3A6XYjD4rECoXKjXK0oL-5dGEZRtLQM5W-RW_tU2_EEYPPRflTNuMCcfd-AnX_eFfw0UbeoHdxjFRUd6_abfIrhvzXn",
+        "width": 2535
+      },
+      {
+        "height": 1429,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112703745563542563357\">Javier Facal</a>"
+        ],
+        "photo_reference": "AUacShiYBOVqPzbXXRgM0paiYWjn3KutDP2IRp5bsH1Eamih5_AN04zUTVz4fdh7kgGJUgPxltyavT6bSsDcWKHXM_c8MUlgGoGUuYq6NlwEyIZheoCeYcbxyh7IliA2Ui-hJ4lYfM8SeXGIvdUOizMPSEyjV6hFg9JOhfK7lzd1wB9gFy4z",
+        "width": 2312
+      },
+      {
+        "height": 697,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112703745563542563357\">Javier Facal</a>"
+        ],
+        "photo_reference": "AUacShjcms7JN0yL2kOidnX1EQlyM8B-_7oBBnpiygk5riKItIKh9AZS50cEVgwcBqBeEQYXjRGae34N3NiAJnUCZYGo8cPdpbVNGex7wzVZDn0Ba5mqYzibEF3X6fa3pWBY23le-XEpU-OBAcJEG6HfpI8O964HhhcyfiUyqu8E3NDYKVpJ",
+        "width": 1197
+      },
+      {
+        "height": 1841,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112703745563542563357\">Javier Facal</a>"
+        ],
+        "photo_reference": "AUacShhKcx7jL19_OHSOGjBsbSyV3F-1pNQAFgs5tu-16Q7oIjxSjTl7btUhS-5buiVLAPRrn-C_QM_3zc9lnKkPbwRrHEkgsg4_UMwmkCeimwzW6TJ7QCD_T4nTLwIJVJvSCiOA6E_vkTSPsPpGrf8oYnFn-OMxrCVwrEKSXkYTeBRlfHop",
+        "width": 2604
+      },
+      {
+        "height": 1713,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112703745563542563357\">Javier Facal</a>"
+        ],
+        "photo_reference": "AUacShg5IqMqXQcuRBUwGE2uBQJDczkGsDBZC1Xpqsl1bqxUR6Xop8yTc4f421tkggLCM0XKjNnHM3Ul8pENvubrmwSks9oBIq6d8xd7Q7mKDquUPLzuy1FPU6O1IADyfvM1j2RIp3FprHASIWy1zSkqi1B4AVENVUD6elT3SBtKu1eUBPx5",
+        "width": 2084
+      }
+    ],
+    "place_id": "ChIJife4TI5LAr4RlJftjw2_ZKU",
+    "plus_code": {
+      "compound_code": "6XM7+39 Puerto Madryn, Chubut Province, Argentina",
+      "global_code": "479P6XM7+39"
+    },
+    "rating": 5,
+    "reference": "ChIJife4TI5LAr4RlJftjw2_ZKU",
+    "reviews": [
+      {
+        "author_name": "Javier Facal",
+        "author_url": "https://www.google.com/maps/contrib/112703745563542563357/reviews",
+        "language": "en-US",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/AD_cMMShRHRYRDqRYKY7EhPrcxn6b3fMFtGdm6KGe6ayLzAjv2A=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "a month ago",
+        "text": "The recognition of a people",
+        "time": 1690004329,
+        "translated": true
+      }
+    ],
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=11917860578899367828",
+    "user_ratings_total": 1,
+    "utc_offset": -180,
+    "vicinity": "28 de Julio, Bartolomé Mitre &, Puerto Madryn"
+  },
+  {
+    "address_components": [
+      {
+        "long_name": "19-199",
+        "short_name": "19-199",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "Pasaje Libertad",
+        "short_name": "Pje. Libertad",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Puerto Madryn",
+        "short_name": "Puerto Madryn",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Biedma",
+        "short_name": "Biedma",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Chubut",
+        "short_name": "Chubut",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Argentina",
+        "short_name": "AR",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">Pje. Libertad 19-199</span>, <span class=\"locality\">Puerto Madryn</span>, <span class=\"region\">Chubut</span>, <span class=\"country-name\">Argentina</span>",
+    "business_status": "OPERATIONAL",
+    "formatted_address": "Pje. Libertad 19-199, Puerto Madryn, Chubut, Argentina",
+    "geometry": {
+      "location": {
+        "lat": -42.7871576,
+        "lng": -65.0182547
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.7859227197085,
+          "lng": -65.0168888197085
+        },
+        "southwest": {
+          "lat": -42.7886206802915,
+          "lng": -65.0195867802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Plaza escritores patagonicos",
+    "photos": [
+      {
+        "height": 2322,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111675083579144747949\">Juan Ignacio Vissani</a>"
+        ],
+        "photo_reference": "AUacShgc-xW6iIWJRF9Fxc7b8fWrdFI0yHrRb_Qrz1TCMwll6pKVgnjqEYGh2avgd7XUb84D6eQLJvdVjwLnKQK85Wqy86OCkd3PEAv7QD0VDXyAxpQkc5tarMTNIH431wJwZCAptvFLHupcd33oEDafYZ4cRHWPC77I9rAJegAytZPC0GWJ",
+        "width": 4128
+      }
+    ],
+    "place_id": "ChIJqTHt-apKAr4RRsfIrtmjEXY",
+    "plus_code": {
+      "compound_code": "6X7J+4M Puerto Madryn, Chubut Province, Argentina",
+      "global_code": "479P6X7J+4M"
+    },
+    "rating": 4.1,
+    "reference": "ChIJqTHt-apKAr4RRsfIrtmjEXY",
+    "reviews": [
+      {
+        "author_name": "Sil S",
+        "author_url": "https://www.google.com/maps/contrib/117204579506843744854/reviews",
+        "language": "en-US",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/AD_cMMSnsh6Q7Vzk8rD3o_dbnRFunpnUMaztOJC-AspVmg7LhQ=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 months ago",
+        "text": "Beautiful square, lots of green, big trees, impeccable games, an excellent morning to go and enjoy a day outdoors",
+        "time": 1680917302,
+        "translated": true
+      },
+      {
+        "author_name": "Diana Perciante",
+        "author_url": "https://www.google.com/maps/contrib/116419316785948857698/reviews",
+        "language": "en-US",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/AD_cMMQQQYLjpKwWQY37JaiC0W3lNy3_aOSunt_BC_d58x6HHesA=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "6 months ago",
+        "text": "It is a completely different place to any square. Boys develop their imagination, it's great!!!",
+        "time": 1676156199,
+        "translated": true
+      },
+      {
+        "author_name": "Juan Pablo Manara",
+        "author_url": "https://www.google.com/maps/contrib/111089355480508103813/reviews",
+        "language": "en-US",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/AD_cMMS7juxE8XJj3UMjLzDEW2aS5wsqr8y78ZWASvv3PmP6Bg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "7 months ago",
+        "text": "Beautifully landscaped, now it has the convenience of the ATM of the Chubut bank (at the moment Link network) and the headquarters of the Desembarco neighborhood.",
+        "time": 1673329718,
+        "translated": true
+      },
+      {
+        "author_name": "Javier Asi",
+        "author_url": "https://www.google.com/maps/contrib/107793365543942226000/reviews",
+        "language": "en-US",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/AD_cMMQDxpMx-OQbsZx0k4AFC1Y5dGHBfcYXVWyRlpKVtFbJF90=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 3,
+        "relative_time_description": "5 months ago",
+        "text": "Lacks water and maintenance",
+        "time": 1680184753,
+        "translated": true
+      },
+      {
+        "author_name": "Maria Beatriz Agorreca",
+        "author_url": "https://www.google.com/maps/contrib/114531028073608074835/reviews",
+        "language": "en-US",
+        "original_language": "es",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/AD_cMMSoonMB0c9z7Y_TED8UoILc3eD1vimIMVuViD63iJ_Sk1jo=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "4 years ago",
+        "text": "Nice place with a Neighborhood Council where you can do gymnastics, learn English and guitar",
+        "time": 1566938203,
+        "translated": true
+      }
+    ],
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=8507761326415202118",
+    "user_ratings_total": 34,
+    "utc_offset": -180,
+    "vicinity": "Pasaje Libertad 19-199, Puerto Madryn",
+    "wheelchair_accessible_entrance": true
+  },
+  {
+    "address_components": [
+      {
+        "long_name": "52X4+H3",
+        "short_name": "52X4+H3",
+        "types": [
+          "plus_code"
+        ]
+      },
+      {
+        "long_name": "Puerto Madryn",
+        "short_name": "Puerto Madryn",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Biedma Department",
+        "short_name": "Biedma Department",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Chubut Province",
+        "short_name": "Chubut Province",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Argentina",
+        "short_name": "AR",
+        "types": [
+          "country",
+          "political"
+        ]
+      }
+    ],
+    "adr_address": "52X4+H3, <span class=\"locality\">Puerto Madryn</span>, <span class=\"region\">Chubut Province</span>, <span class=\"country-name\">Argentina</span>",
+    "business_status": "OPERATIONAL",
+    "formatted_address": "52X4+H3, Puerto Madryn, Chubut Province, Argentina",
+    "geometry": {
+      "location": {
+        "lat": -42.80111770000001,
+        "lng": -64.9948634
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.7997691697085,
+          "lng": -64.9935137197085
+        },
+        "southwest": {
+          "lat": -42.8024671302915,
+          "lng": -64.99621168029151
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Paseo ciclista",
+    "photos": [
+      {
+        "height": 2325,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116050321494427824342\">DFM Madryn</a>"
+        ],
+        "photo_reference": "AUacShikzk-AKwFMEvBksB3F_kUIKeBtEp_ItGJk7WHhfWtgLp4PAgLHiAd9ka6cDty1UsartqlZzABFyBFwMtL0Z80ehlhsSeY8cyyt8ypixuFzv9fL90lZe2sqwQDH4IkRskNuOwMTVAGj2W44_D-W-n4WbAzD-vFymiOTaMz65nmmMqec",
+        "width": 1537
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101182817678258874109\">Jose Collado Guzman</a>"
+        ],
+        "photo_reference": "AUacShg-SGJT0sRH0OfUlQLe2-YYCx9YAB0EAUGfYBPQbfcNRh8GZS5go_Ui8IrHc4gVKOMYJ9bqiem5NaoKW-4emEL996IXSb3bbaGuZvTJ6TxinvtolW2ZwrqBd6bfV6_h3fg5qE3pbsLMKu--g0LhuJ8fMOw9FJLKwjmvEb0WnmY3-SmG",
+        "width": 3120
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116050321494427824342\">DFM Madryn</a>"
+        ],
+        "photo_reference": "AUacShiosPLfVuhlUAJwsHqrylbrzOP3rzhEXZBcdNaTLFU82aZHhxy7cK1pJVDWPonen_X7V_wHqobmzibgAzlBWjQhqWGHtXLOQ9PF704iAiojJYIu6B0_djsJcDS9JKMEo-dxqVpv6epUz0ltiDQCsayseTQt08icQhacDkCvJ0aDGWva",
+        "width": 3024
+      },
+      {
+        "height": 3099,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116050321494427824342\">DFM Madryn</a>"
+        ],
+        "photo_reference": "AUacShiLrMyk2er29FBYZDR5hyDtIxpa-CRIB6YguHM9N0hb59WJW1OM4Xnkif91FiAw5DvyVWMSWLMtYfMmVOmPbXcBL07S5XKyVDJ2DExw0wjrQUSblBWwTN_6y_fCg8kGstMJ9FghEV_9C6gePIn9LHW2Il_buyO065Di8xklpYi8Ckge",
+        "width": 1915
+      },
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101182817678258874109\">Jose Collado Guzman</a>"
+        ],
+        "photo_reference": "AUacShhRAZUVuIce1ppDJu4dJbF0mgEw5JeFPt_1jrHYvSSwouGm27yx7HTISY_WLRF2hfyc8qmg7mkWlp6-R9Y8yP0vn9hMGzTwYQbCg3btHeHCG0qUam2W3hh97lZQMrG139l2DYW_amTLxjTk6iOFiV1FA8OEwvDPrmZ4efygU35GbxQW",
+        "width": 4160
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116050321494427824342\">DFM Madryn</a>"
+        ],
+        "photo_reference": "AUacShimNPqdeCaYRwgqAE5UnD3JKIqsPvFMtCNM1FqY5p-UtvYZB24Mc0ZXig1Q5o4l7jNSuRu0zkreeJNcbgBl9_QMDIzR6znKJCQ7zzxz3ycTo_ix6ByjuMlTsq-i6XOdBW3QSPDi9XN2eKHlliOrrnaaHPqYdzUkcs2qe2rMA6Cc5O6l",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116050321494427824342\">DFM Madryn</a>"
+        ],
+        "photo_reference": "AUacShida1QSCRpiCgvBeCrMOTxXusSjF4Q4Oao9PN_QEusaT-KgRGfXkRhA1_X7sS8xUnNDyrFwLqC5nNWw5mJ9bqz1UKyoBqRgeqS2y3uI3rN6jiP_U7y6GdAKfYcWObiMTonl9ABJx0i1NBRmJeiLrxjr9mcDn0-leh6M9qxtS9otPhfq",
+        "width": 4032
+      },
+      {
+        "height": 2477,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116050321494427824342\">DFM Madryn</a>"
+        ],
+        "photo_reference": "AUacShgr67D9FVFc5RpCud4CSXhwd1QWyuvI0hoefoKlOAxNgt0GmaJVwAUj0l0sEA5ioiYGrkJajfstUGBkFDGjVINu_bPmZdUWNyjK3P3MpTQZJxQRt1o6OYwN2ukgCmj_JK8ngV4DghO5Pkrz1txoXhGajMHnkoTIER0XAw7DjmZalMYN",
+        "width": 1762
+      },
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101182817678258874109\">Jose Collado Guzman</a>"
+        ],
+        "photo_reference": "AUacShiFT5cTmx4Y6cNH33nAQvqATGlIzdMOg32XM7zlaOJ6cWbrshUlyo0y7XoG_mEoeFW0Ke-xav7sPVZqMGOgvfSJtZ9OuooHIykJZd7v7XZqGQW3SJvz7eFrMSzs28cjOczbcXcJVGhKbV3DHjmsbGmc8Kqxb1S237CxWEGFYiNissPb",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJL7BWPPK1A74Relu_nUr2GTc",
+    "reference": "ChIJL7BWPPK1A74Relu_nUr2GTc",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "url": "https://maps.google.com/?cid=3970475346838379386",
+    "utc_offset": -180,
+    "vicinity": "52X4+H3, Puerto Madryn"
+  }
+]

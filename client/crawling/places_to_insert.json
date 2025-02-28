@@ -1,0 +1,1878 @@
+[
+  {
+    "name": "Histórico Punta Cuevas Park",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Atracciones turísticas",
+      "Lugares de interés"
+    ],
+    "domicile": "Bv. Almirante Brown 3777, Puerto Madryn",
+    "location": {
+      "lat": -42.780178,
+      "lng": -65.0008786
+    },
+    "schedules": [
+      {
+        "dayOfWeek": {
+          "name": "DOMINGO"
+        },
+        "openingHour": "00:00",
+        "closingHour": "23:59"
+      }
+    ],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Monumento al Indio Tehuelche",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Atracciones turísticas",
+      "Lugares de interés"
+    ],
+    "domicile": "Bv. Almirante Brown, Puerto Madryn",
+    "location": {
+      "lat": -42.7802983,
+      "lng": -64.9991781
+    },
+    "schedules": [
+      {
+        "dayOfWeek": {
+          "name": "DOMINGO"
+        },
+        "openingHour": "00:00",
+        "closingHour": "23:59"
+      }
+    ],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Proyecto Iris",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Atracciones turísticas",
+      "Lugares de interés"
+    ],
+    "domicile": "Bv. Almirante Brown, Puerto Madryn",
+    "location": {
+      "lat": -42.77984629999999,
+      "lng": -65.0189579
+    },
+    "schedules": [
+      {
+        "dayOfWeek": {
+          "name": "DOMINGO"
+        },
+        "openingHour": "09:00",
+        "closingHour": "21:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "LUNES"
+        },
+        "openingHour": "09:00",
+        "closingHour": "21:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "MARTES"
+        },
+        "openingHour": "09:00",
+        "closingHour": "21:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "MIERCOLES"
+        },
+        "openingHour": "09:00",
+        "closingHour": "21:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "JUEVES"
+        },
+        "openingHour": "09:00",
+        "closingHour": "21:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "VIERNES"
+        },
+        "openingHour": "09:00",
+        "closingHour": "21:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "SABADO"
+        },
+        "openingHour": "09:00",
+        "closingHour": "21:00"
+      }
+    ],
+    "services": [],
+    "accessibilities": [],
+    "phone": "0280 15-457-9492",
+    "url": "http://www.proyecto-iris.com.ar/",
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Plazoleta de los Desaparecidos en el Mar",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Atracciones turísticas",
+      "Lugares de interés"
+    ],
+    "domicile": "Bv. Almirante Brown, Puerto Madryn",
+    "location": {
+      "lat": -42.7812691,
+      "lng": -64.9969029
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Puerto pirámides",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Atracciones turísticas",
+      "Lugares de interés"
+    ],
+    "domicile": "Avenida Guillermo Rawson, Puerto Madryn",
+    "location": {
+      "lat": -42.76362169999999,
+      "lng": -65.03483109999999
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Pinguinos",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Atracciones turísticas",
+      "Lugares de interés"
+    ],
+    "domicile": "Puerto Madryn",
+    "location": {
+      "lat": -42.76362169999999,
+      "lng": -65.03483109999999
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Sergio Posternak",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Atracciones turísticas",
+      "Lugares de interés"
+    ],
+    "domicile": "Gobernador Alejandro Maiz, Puerto Madryn",
+    "location": {
+      "lat": -42.7741788,
+      "lng": -65.03631500000002
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Muestra fotografica",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Atracciones turísticas",
+      "Lugares de interés"
+    ],
+    "domicile": "Bv. Almirante Brown, Puerto Madryn",
+    "location": {
+      "lat": -42.7806631,
+      "lng": -65.0182827
+    },
+    "schedules": [
+      {
+        "dayOfWeek": {
+          "name": "DOMINGO"
+        },
+        "openingHour": "00:00",
+        "closingHour": "23:59"
+      }
+    ],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": "http://www.globalpenguinsociety.org/",
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Praia de puerto madryn",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Atracciones turísticas",
+      "Lugares de interés"
+    ],
+    "domicile": "Avenida Julio Argentino Roca 251, Puerto Madryn",
+    "location": {
+      "lat": -42.766028,
+      "lng": -65.0324676
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Puerto madryn",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Atracciones turísticas",
+      "Lugares de interés"
+    ],
+    "domicile": "Avenida Guillermo Rawson 12, Puerto Madryn",
+    "location": {
+      "lat": -42.7635503,
+      "lng": -65.0347183
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Playa Puerto Madryn",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Atracciones turísticas",
+      "Lugares de interés"
+    ],
+    "domicile": "Puerto Madryn",
+    "location": {
+      "lat": -42.76814770000001,
+      "lng": -65.0311959
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Gemas",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Museos y galerías de arte",
+      "Atracciones turísticas",
+      "Lugares de interés"
+    ],
+    "domicile": "San Luis 805, Puerto Madryn",
+    "location": {
+      "lat": -42.7765361,
+      "lng": -65.0427059
+    },
+    "schedules": [
+      {
+        "dayOfWeek": {
+          "name": "LUNES"
+        },
+        "openingHour": "10:00",
+        "closingHour": "12:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "LUNES"
+        },
+        "openingHour": "16:00",
+        "closingHour": "18:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "MARTES"
+        },
+        "openingHour": "10:00",
+        "closingHour": "12:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "MARTES"
+        },
+        "openingHour": "16:00",
+        "closingHour": "18:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "MIERCOLES"
+        },
+        "openingHour": "10:00",
+        "closingHour": "12:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "MIERCOLES"
+        },
+        "openingHour": "16:00",
+        "closingHour": "18:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "JUEVES"
+        },
+        "openingHour": "10:00",
+        "closingHour": "12:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "JUEVES"
+        },
+        "openingHour": "16:00",
+        "closingHour": "18:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "VIERNES"
+        },
+        "openingHour": "10:00",
+        "closingHour": "12:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "VIERNES"
+        },
+        "openingHour": "16:00",
+        "closingHour": "18:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "SABADO"
+        },
+        "openingHour": "10:00",
+        "closingHour": "12:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "SABADO"
+        },
+        "openingHour": "16:00",
+        "closingHour": "18:00"
+      }
+    ],
+    "services": [],
+    "accessibilities": [
+      {
+        "name": "Entrada con acceso para silla de ruedas"
+      }
+    ],
+    "phone": "0280 447-4554",
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Municipal Museum of Art",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Atracciones turísticas",
+      "Museos y galerías de arte",
+      "Lugares de interés"
+    ],
+    "domicile": "Avenida Julio Argentino Roca 400-500, Puerto Madryn",
+    "location": {
+      "lat": -42.7678476,
+      "lng": -65.03184089999999
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [
+      {
+        "name": "Entrada con acceso para silla de ruedas"
+      }
+    ],
+    "phone": "0280 505-1102",
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Monumento a la Bandera",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Atracciones turísticas",
+      "Lugares de interés"
+    ],
+    "domicile": "el paseo de la rambla, 28 de Julio &, Puerto Madryn",
+    "location": {
+      "lat": -42.7654259,
+      "lng": -65.0330185
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Mástil de Banderas de Punta Cuevas - Punto Panorámico",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Atracciones turísticas",
+      "Lugares de interés"
+    ],
+    "domicile": "Punta Cuevas, Puerto Madryn",
+    "location": {
+      "lat": -42.7801652,
+      "lng": -65.0002172
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Comandante Luis Piedra Buena Pier",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Atracciones turísticas",
+      "Lugares de interés"
+    ],
+    "domicile": "100, Avenida Guillermo Rawson 1, Puerto Madryn",
+    "location": {
+      "lat": -42.7631222,
+      "lng": -65.0337698
+    },
+    "schedules": [
+      {
+        "dayOfWeek": {
+          "name": "DOMINGO"
+        },
+        "openingHour": "08:00",
+        "closingHour": "23:59"
+      },
+      {
+        "dayOfWeek": {
+          "name": "LUNES"
+        },
+        "openingHour": "00:00",
+        "closingHour": "03:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "LUNES"
+        },
+        "openingHour": "08:00",
+        "closingHour": "23:59"
+      },
+      {
+        "dayOfWeek": {
+          "name": "MARTES"
+        },
+        "openingHour": "00:00",
+        "closingHour": "03:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "MARTES"
+        },
+        "openingHour": "08:00",
+        "closingHour": "23:59"
+      },
+      {
+        "dayOfWeek": {
+          "name": "MIERCOLES"
+        },
+        "openingHour": "00:00",
+        "closingHour": "03:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "MIERCOLES"
+        },
+        "openingHour": "08:00",
+        "closingHour": "23:59"
+      },
+      {
+        "dayOfWeek": {
+          "name": "JUEVES"
+        },
+        "openingHour": "00:00",
+        "closingHour": "03:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "JUEVES"
+        },
+        "openingHour": "08:00",
+        "closingHour": "23:59"
+      },
+      {
+        "dayOfWeek": {
+          "name": "VIERNES"
+        },
+        "openingHour": "00:00",
+        "closingHour": "03:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "VIERNES"
+        },
+        "openingHour": "08:00",
+        "closingHour": "23:59"
+      },
+      {
+        "dayOfWeek": {
+          "name": "SABADO"
+        },
+        "openingHour": "00:00",
+        "closingHour": "03:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "SABADO"
+        },
+        "openingHour": "08:00",
+        "closingHour": "23:59"
+      },
+      {
+        "dayOfWeek": {
+          "name": "DOMINGO"
+        },
+        "openingHour": "00:00",
+        "closingHour": "03:00"
+      }
+    ],
+    "services": [],
+    "accessibilities": [
+      {
+        "name": "Entrada con acceso para silla de ruedas"
+      }
+    ],
+    "phone": "0280 445-8914",
+    "url": "http://www.appm.com.ar/",
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Letras Puerto Madryn",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Atracciones turísticas",
+      "Lugares de interés"
+    ],
+    "domicile": "Puerto Madryn",
+    "location": {
+      "lat": -42.7663058,
+      "lng": -65.0972453
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Plaza Los Médanos",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "Puerto Madryn",
+    "location": {
+      "lat": -42.78652839999999,
+      "lng": -64.9998476
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Plaza Juan Muzzio",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "Puerto Madryn",
+    "location": {
+      "lat": -42.76045980000001,
+      "lng": -65.04467869999999
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [
+      {
+        "name": "Entrada con acceso para silla de ruedas"
+      }
+    ],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Monumento al General San Martín",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Atracciones turísticas",
+      "Lugares de interés"
+    ],
+    "domicile": "28 de Julio, Bartolomé Mitre &, Puerto Madryn",
+    "location": {
+      "lat": -42.7672953,
+      "lng": -65.0366049
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Fuente de agua sobre la rambla",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Atracciones turísticas",
+      "Lugares de interés"
+    ],
+    "domicile": "28 de Julio 2, Puerto Madryn",
+    "location": {
+      "lat": -42.7655896,
+      "lng": -65.0332971
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Plaza Puerto Madryn",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Atracciones turísticas",
+      "Lugares de interés"
+    ],
+    "domicile": "Bartolomé Mitre 199-299, Puerto Madryn",
+    "location": {
+      "lat": -42.7672066,
+      "lng": -65.0366547
+    },
+    "schedules": [
+      {
+        "dayOfWeek": {
+          "name": "DOMINGO"
+        },
+        "openingHour": "00:00",
+        "closingHour": "23:59"
+      }
+    ],
+    "services": [],
+    "accessibilities": [
+      {
+        "name": "Entrada con acceso para silla de ruedas"
+      }
+    ],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "fachero Park",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "Puerto Madryn",
+    "location": {
+      "lat": -42.7532896,
+      "lng": -65.05233609999999
+    },
+    "schedules": [
+      {
+        "dayOfWeek": {
+          "name": "DOMINGO"
+        },
+        "openingHour": "00:00",
+        "closingHour": "23:59"
+      }
+    ],
+    "services": [],
+    "accessibilities": [
+      {
+        "name": "Entrada con acceso para silla de ruedas"
+      }
+    ],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Jaz&Emi AlamosII",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "7W42+WJ, Puerto Madryn",
+    "location": {
+      "lat": -42.74263010000001,
+      "lng": -65.0984999
+    },
+    "schedules": [
+      {
+        "dayOfWeek": {
+          "name": "DOMINGO"
+        },
+        "openingHour": "00:00",
+        "closingHour": "23:59"
+      }
+    ],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Sendero Koji Ishino",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "28 de Julio, Bartolomé Mitre &, Puerto Madryn",
+    "location": {
+      "lat": -42.76668610000001,
+      "lng": -65.0363199
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Cada augusto",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "Marcelo T. de Alvear 747, Puerto Madryn",
+    "location": {
+      "lat": -42.7741881,
+      "lng": -65.038344
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Parque",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "Roque Piccirillo 99, Puerto Madryn",
+    "location": {
+      "lat": -42.76759679999999,
+      "lng": -65.0498487
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [
+      {
+        "name": "Entrada con acceso para silla de ruedas"
+      }
+    ],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Paseo del Puerto",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "Muelle Alte. Storni, Puerto Madryn",
+    "location": {
+      "lat": -42.7375332,
+      "lng": -65.03945209999999
+    },
+    "schedules": [
+      {
+        "dayOfWeek": {
+          "name": "LUNES"
+        },
+        "openingHour": "09:00",
+        "closingHour": "16:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "MARTES"
+        },
+        "openingHour": "09:00",
+        "closingHour": "16:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "MIERCOLES"
+        },
+        "openingHour": "09:00",
+        "closingHour": "16:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "JUEVES"
+        },
+        "openingHour": "09:00",
+        "closingHour": "16:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "VIERNES"
+        },
+        "openingHour": "09:00",
+        "closingHour": "16:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "SABADO"
+        },
+        "openingHour": "09:00",
+        "closingHour": "13:00"
+      }
+    ],
+    "services": [],
+    "accessibilities": [
+      {
+        "name": "Entrada con acceso para silla de ruedas"
+      }
+    ],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "La cueva",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "Manuel García 755, Puerto Madryn",
+    "location": {
+      "lat": -42.7834908,
+      "lng": -65.066856
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "El Genaaa",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "Dorrego 71, Puerto Madryn",
+    "location": {
+      "lat": -42.7825954,
+      "lng": -65.0240834
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Juegos Infantiles Park",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "Puerto Madryn",
+    "location": {
+      "lat": -42.76962169999999,
+      "lng": -65.0300322
+    },
+    "schedules": [
+      {
+        "dayOfWeek": {
+          "name": "DOMINGO"
+        },
+        "openingHour": "00:00",
+        "closingHour": "23:59"
+      }
+    ],
+    "services": [],
+    "accessibilities": [
+      {
+        "name": "Entrada con acceso para silla de ruedas"
+      }
+    ],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Bernardo Houssay Park",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "Linier, Puerto Madryn",
+    "location": {
+      "lat": -42.7536265,
+      "lng": -65.0433456
+    },
+    "schedules": [
+      {
+        "dayOfWeek": {
+          "name": "DOMINGO"
+        },
+        "openingHour": "00:00",
+        "closingHour": "23:59"
+      }
+    ],
+    "services": [],
+    "accessibilities": [
+      {
+        "name": "Entrada con acceso para silla de ruedas"
+      }
+    ],
+    "phone": null,
+    "url": "https://www.facebook.com/BosquecitoBarrioPatagonia/",
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Ciudad Park",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "Mariano Moreno 400-498, Puerto Madryn",
+    "location": {
+      "lat": -42.7772353,
+      "lng": -65.03530239999999
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [
+      {
+        "name": "Entrada con acceso para silla de ruedas"
+      }
+    ],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Albatros con oeste",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Atracciones turísticas",
+      "Lugares de interés"
+    ],
+    "domicile": "6XGX+PC, Puerto Madryn",
+    "location": {
+      "lat": -42.7731875,
+      "lng": -65.0014375
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Plataforma Dive Master Buceo",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "6294+XG, Puerto Madryn",
+    "location": {
+      "lat": -42.7800518,
+      "lng": -64.9937459
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Plazoleta Presidente Perón",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "Puerto Madryn",
+    "location": {
+      "lat": -42.7830731,
+      "lng": -65.0188728
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [
+      {
+        "name": "Entrada con acceso para silla de ruedas"
+      }
+    ],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Mosaiquismo",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Atracciones turísticas",
+      "Lugares de interés"
+    ],
+    "domicile": "Paseo costero, Puerto Madryn",
+    "location": {
+      "lat": -42.767491,
+      "lng": -65.0317367
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Video Mundo",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Lugares de interés"
+    ],
+    "domicile": "Bartolomé Mitre 47 17, Puerto Madryn",
+    "location": {
+      "lat": -42.7651301,
+      "lng": -65.0373263
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Plaza El Desembarco",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "Puerto Madryn",
+    "location": {
+      "lat": -42.7806025,
+      "lng": -65.0222611
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [
+      {
+        "name": "Entrada con acceso para silla de ruedas"
+      }
+    ],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Plaza escritores patagonicos",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "Pasaje Libertad 19-199, Puerto Madryn",
+    "location": {
+      "lat": -42.7871576,
+      "lng": -65.0182547
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [
+      {
+        "name": "Entrada con acceso para silla de ruedas"
+      }
+    ],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Plaza Copada",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "Liniers 569-799, Puerto Madryn",
+    "location": {
+      "lat": -42.753536,
+      "lng": -65.0442667
+    },
+    "schedules": [
+      {
+        "dayOfWeek": {
+          "name": "DOMINGO"
+        },
+        "openingHour": "00:00",
+        "closingHour": "23:59"
+      }
+    ],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": "https://www.facebook.com/BosquecitoBarrioPatagonia/",
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Laguna De Puerto Madryn",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "Gobernador Alejandro Maiz 1400-1600, Puerto Madryn",
+    "location": {
+      "lat": -42.7802412,
+      "lng": -65.0319868
+    },
+    "schedules": [
+      {
+        "dayOfWeek": {
+          "name": "DOMINGO"
+        },
+        "openingHour": "00:00",
+        "closingHour": "23:59"
+      }
+    ],
+    "services": [],
+    "accessibilities": [
+      {
+        "name": "Entrada con acceso para silla de ruedas"
+      }
+    ],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Plaza España",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "Puerto Madryn",
+    "location": {
+      "lat": -42.77921509999999,
+      "lng": -65.0290515
+    },
+    "schedules": [
+      {
+        "dayOfWeek": {
+          "name": "DOMINGO"
+        },
+        "openingHour": "00:00",
+        "closingHour": "23:59"
+      }
+    ],
+    "services": [],
+    "accessibilities": [
+      {
+        "name": "Entrada con acceso para silla de ruedas"
+      }
+    ],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Plaza Euzkadi",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "Puerto Madryn",
+    "location": {
+      "lat": -42.7842411,
+      "lng": -65.0259277
+    },
+    "schedules": [
+      {
+        "dayOfWeek": {
+          "name": "DOMINGO"
+        },
+        "openingHour": "00:00",
+        "closingHour": "23:59"
+      }
+    ],
+    "services": [],
+    "accessibilities": [
+      {
+        "name": "Entrada con acceso para silla de ruedas"
+      }
+    ],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Das Neves",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "Puerto Madryn",
+    "location": {
+      "lat": -42.76136719999999,
+      "lng": -65.0687143
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "posta 3",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "Puerto Madryn",
+    "location": {
+      "lat": -42.776715,
+      "lng": -65.03415129999999
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Burger Point",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Comida y restaurantes",
+      "Lugares de interés"
+    ],
+    "domicile": "Puerto Madryn",
+    "location": {
+      "lat": -42.781814,
+      "lng": -65.0009843
+    },
+    "schedules": [],
+    "services": [
+      {
+        "name": "Comer en el lugar"
+      },
+      {
+        "name": "Sirve almuerzo"
+      },
+      {
+        "name": "Para llevar"
+      }
+    ],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Playa Puerto Madryn",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "Bv. Almirante Brown, Puerto Madryn",
+    "location": {
+      "lat": -42.77752,
+      "lng": -65.0213717
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Cementerio Parque Puerto Madryn",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "Ruta Acceso Sur, Puerto Madryn",
+    "location": {
+      "lat": -42.76646090000001,
+      "lng": -65.1014923
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [
+      {
+        "name": "Entrada con acceso para silla de ruedas"
+      }
+    ],
+    "phone": "0280 15-460-3252",
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Patagonia Point",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Lugares de interés"
+    ],
+    "domicile": "Avenida Julio Argentino Roca 223, Puerto Madryn",
+    "location": {
+      "lat": -42.76588319999999,
+      "lng": -65.0336122
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Jardin",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "San Martín 852, Puerto Madryn",
+    "location": {
+      "lat": -42.7742517,
+      "lng": -65.0342495
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Mural \"El Regreso\"",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Lugares de interés"
+    ],
+    "domicile": "Entrada al Muelle Almirante Storni, Ruta Provincial 1, Puerto Madryn",
+    "location": {
+      "lat": -42.736725,
+      "lng": -65.0404885
+    },
+    "schedules": [
+      {
+        "dayOfWeek": {
+          "name": "DOMINGO"
+        },
+        "openingHour": "00:00",
+        "closingHour": "23:59"
+      }
+    ],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Burger Point",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Comida y restaurantes",
+      "Lugares de interés"
+    ],
+    "domicile": "Furnillo 118. Furnillo, Paulina Escardo y, Puerto Madryn",
+    "location": {
+      "lat": -42.7618075,
+      "lng": -65.03762739999999
+    },
+    "schedules": [
+      {
+        "dayOfWeek": {
+          "name": "JUEVES"
+        },
+        "openingHour": "08:30",
+        "closingHour": "23:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "VIERNES"
+        },
+        "openingHour": "08:30",
+        "closingHour": "23:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "SABADO"
+        },
+        "openingHour": "08:30",
+        "closingHour": "23:00"
+      }
+    ],
+    "services": [
+      {
+        "name": "Sirve cerveza"
+      },
+      {
+        "name": "Sirve cena"
+      },
+      {
+        "name": "Para llevar"
+      }
+    ],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Los dos amigos - sergio maximiliano pazos",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "6W2C+45, Puerto Madryn",
+    "location": {
+      "lat": -42.7996793,
+      "lng": -65.0796239
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Cressi Sub S.c.a",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Lugares de interés"
+    ],
+    "domicile": "Hipólito Yrigoyen 200, Puerto Madryn",
+    "location": {
+      "lat": -42.7646248,
+      "lng": -65.03750930000001
+    },
+    "schedules": [
+      {
+        "dayOfWeek": {
+          "name": "LUNES"
+        },
+        "openingHour": "09:00",
+        "closingHour": "13:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "LUNES"
+        },
+        "openingHour": "16:30",
+        "closingHour": "20:30"
+      },
+      {
+        "dayOfWeek": {
+          "name": "MARTES"
+        },
+        "openingHour": "09:00",
+        "closingHour": "13:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "MARTES"
+        },
+        "openingHour": "16:30",
+        "closingHour": "20:30"
+      },
+      {
+        "dayOfWeek": {
+          "name": "MIERCOLES"
+        },
+        "openingHour": "09:00",
+        "closingHour": "13:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "MIERCOLES"
+        },
+        "openingHour": "16:30",
+        "closingHour": "20:30"
+      },
+      {
+        "dayOfWeek": {
+          "name": "JUEVES"
+        },
+        "openingHour": "09:00",
+        "closingHour": "13:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "JUEVES"
+        },
+        "openingHour": "16:30",
+        "closingHour": "20:30"
+      },
+      {
+        "dayOfWeek": {
+          "name": "VIERNES"
+        },
+        "openingHour": "09:00",
+        "closingHour": "13:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "VIERNES"
+        },
+        "openingHour": "16:30",
+        "closingHour": "20:30"
+      },
+      {
+        "dayOfWeek": {
+          "name": "SABADO"
+        },
+        "openingHour": "09:00",
+        "closingHour": "13:00"
+      },
+      {
+        "dayOfWeek": {
+          "name": "SABADO"
+        },
+        "openingHour": "17:30",
+        "closingHour": "20:30"
+      }
+    ],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Ready",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Lugares de interés"
+    ],
+    "domicile": "Bartolomé Mitre 47 51, Puerto Madryn",
+    "location": {
+      "lat": -42.7651301,
+      "lng": -65.0373263
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Monumento a los Pioneros del buceo",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Lugares de interés"
+    ],
+    "domicile": "Puerto Madryn",
+    "location": {
+      "lat": -42.7644913,
+      "lng": -65.03369649999999
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "el pati",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "Avenida Julio Argentino Roca N353, Puerto Madryn",
+    "location": {
+      "lat": -42.7671161,
+      "lng": -65.0324515
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  },
+  {
+    "name": "Paseo ciclista",
+    "principalCategory": "Lugares de interés",
+    "categories": [
+      "Parques y jardines",
+      "Lugares de interés"
+    ],
+    "domicile": "52X4+H3, Puerto Madryn",
+    "location": {
+      "lat": -42.80111770000001,
+      "lng": -64.9948634
+    },
+    "schedules": [],
+    "services": [],
+    "accessibilities": [],
+    "phone": null,
+    "url": null,
+    "organization": null,
+    "minors": null,
+    "description": null,
+    "note": null
+  }
+]

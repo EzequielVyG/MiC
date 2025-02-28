@@ -1,0 +1,813 @@
+{
+	"grupos": [
+		{
+			"grupo": "Eventos",
+			"subcategorias": [
+				{
+					"categoria": "Eventos culturales y artisticos",
+					"subcategorias": [
+						{ "categoria": "Eventos teatrales", "subcategorias": [] },
+						{
+							"categoria": "Eventos de arte callejero y performances",
+							"subcategorias": []
+						},
+						{ "categoria": "Exhibiciones y exposiciones", "subcategorias": [] },
+						{
+							"categoria": "Eventos educativos y talleres",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Eventos de cine y proyecciones",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Conciertos y espectáculos musicales",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Eventos de música en vivo y bandas locales",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Eventos de comida y gastronomia",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Eventos familiares y actividades para niños",
+							"subcategorias": []
+						}
+					]
+				},
+				{
+					"categoria": "Festivales, ferias y convenciones",
+					"subcategorias": [
+						{ "categoria": "Conferencias", "subcategorias": [] },
+						{ "categoria": "convenciones", "subcategorias": [] },
+						{ "categoria": "Eventos de moda y belleza", "subcategorias": [] },
+						{
+							"categoria": "Eventos de negocios y networking",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Eventos de caridad y recaudación de fondos",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Eventos de salud y bienestar",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Eventos de tecnologia e innovación",
+							"subcategorias": []
+						}
+					]
+				},
+				{ "categoria": "Eventos deportivos", "subcategorias": [] },
+				{ "categoria": "Eventos de turismo y viajes", "subcategorias": [] }
+			]
+		},
+
+		{
+			"grupo": "Negocios y Servicios",
+			"subcategorias": [
+				{
+					"categoria": "Alojamiento",
+					"color": "#E6BE1A",
+					"subcategorias": [
+						{ "categoria": "Hoteles", "subcategorias": [],
+						"color": "#E6BE1A" },
+						{ "categoria": "Moteles", "subcategorias": [],
+						"color": "#E6BE1A" },
+						{ "categoria": "Hostales y albergues", "subcategorias": [],
+						"color": "#E6BE1A"},
+						{
+							"categoria": "Apartamentos y alquileres vacacionales",
+							"subcategorias": [],
+							"color": "#E6BE1A"
+						},
+						{ "categoria": "Casas de huéspedes", "subcategorias": [],
+						"color": "#E6BE1A" },
+						{
+							"categoria": "Resorts y complejos turisticos",
+							"subcategorias": [],
+							"color": "#E6BE1A"
+						},
+						{
+							"categoria": "Campings y áreas de autocaravanas",
+							"subcategorias": [],
+							"color": "#E6BE1A"
+						},
+						{ "categoria": "Pensiones y posadas", "subcategorias": [],
+						"color": "#E6BE1A"}
+					]
+				},
+				{ "categoria": "Bancos y cajeros automáticos", "subcategorias": [],
+				"color": "#E6BE1A" },
+				{
+					"categoria": "Comida y restaurantes",
+					"color": "#E59C1B",
+					"subcategorias": [
+						{ "categoria": "Restaurante", "subcategorias": [],
+						"color": "#E59C1B" },
+						{ "categoria": "Cafeterias y bares de café", "subcategorias": [],
+						"color": "#E59C1B" },
+						{ "categoria": "Pizzerias", "subcategorias": [],
+						"color": "#E59C1B" },
+						{ "categoria": "Heladerias", "subcategorias": [],
+						"color": "#E59C1B" },
+						{ "categoria": "Panaderias", "subcategorias": [],
+						"color": "#E59C1B" },
+						{ "categoria": "Bares y pubs", "subcategorias": [],
+						"color": "#E59C1B" },
+						{ "categoria": "Parrillas y asadores", "subcategorias": [],
+						"color": "#E59C1B" }
+					]
+				},
+				{
+					"categoria": "Compras",
+					"color": "#E2B46A",
+					"subcategorias": [
+						{ "categoria": "Centros comerciales", "subcategorias": [],
+						"color": "#E2B46A" },
+						{
+							"categoria": "Supermercados y mercados de abastos",
+							"subcategorias": [],
+							"color": "#E2B46A"
+						},
+						{
+							"categoria": "Tiendas de comestibles y delicatesen",
+							"subcategorias": [],
+							"color": "#E2B46A"
+						},
+						{
+							"categoria": "Tiendas de electrónica y tecnología",
+							"subcategorias": [],
+							"color": "#E2B46A"
+						},
+						{ "categoria": "Tiendas de ropa y moda", "subcategorias": [],
+						"color": "#E2B46A" },
+						{ "categoria": "Tiendas de calzado", "subcategorias": [],
+						"color": "#E2B46A" },
+						{
+							"categoria": "Tiendas de articulos deportivos",
+							"subcategorias": [],
+							"color": "#E2B46A"
+						},
+						{
+							"categoria": "Tiendas de muebles y decoración",
+							"subcategorias": [],
+							"color": "#E2B46A"
+						},
+						{
+							"categoria": "Tiendas de electrodomésticos y linea blanca",
+							"subcategorias": [],
+							"color": "#E2B46A"
+						},
+						{
+							"categoria": "Tiendas de juguetes y juegos",
+							"subcategorias": [],
+							"color": "#E2B46A"
+						},
+						{
+							"categoria": "Tiendas de libros y articulos de papeleria",
+							"subcategorias": [],
+							"color": "#E2B46A"
+						},
+						{
+							"categoria": "Tiendas de belleza y cuidado personal",
+							"subcategorias": [],
+							"color": "#E2B46A"
+						},
+						{
+							"categoria": "Tiendas de accesorios y complementos",
+							"subcategorias": [],
+							"color": "#E2B46A"
+						},
+						{
+							"categoria": "Tiendas de arte y manualidades",
+							"subcategorias": [],
+							"color": "#E2B46A"
+						},
+						{
+							"categoria": "Tiendas de productos naturales y orgánicos",
+							"subcategorias": [],
+							"color": "#E2B46A"
+						},
+						{
+							"categoria": "Tiendas de regalos y souvenirs",
+							"subcategorias": [],
+							"color": "#E2B46A"
+						},
+						{
+							"categoria": "Tiendas de instrumentos musicales",
+							"subcategorias": [],
+							"color": "#E2B46A"
+						},
+						{
+							"categoria": "Tiendas de alimentos para mascotas",
+							"subcategorias": [],
+							"color": "#E2B46A"
+						},
+						{
+							"categoria": "Tiendas de suministros y materiales de construcción",
+							"subcategorias": [],
+							"color": "#E2B46A"
+						},
+						{
+							"categoria": "Tiendas de automóviles y repuestos",
+							"subcategorias": [],
+							"color": "#E2B46A"
+						}
+					]
+				},
+				{
+					"categoria": "Educación",
+					"color": "#C7AC83",
+					"subcategorias": [
+						{
+							"categoria": "Escuelas primarias y secundarias",
+							"subcategorias": [],
+							"color": "#C7AC83"
+						},
+						{
+							"categoria": "Institutos y colegios técnicos",
+							"subcategorias": [],
+							"color": "#C7AC83"
+						},
+						{ "categoria": "Universidades y facultades", "subcategorias": [],
+						"color": "#C7AC83" },
+						{
+							"categoria": "Escuelas de idiomas y cursos de idiomas",
+							"subcategorias": [],
+							"color": "#C7AC83"
+						},
+						{
+							"categoria": "Escuelas de música y clases de música",
+							"subcategorias": [],
+							"color": "#C7AC83"
+						},
+						{
+							"categoria": "Escuelas de danza y clases de baile",
+							"subcategorias": [],
+							"color": "#C7AC83"
+						},
+						{
+							"categoria": "Escuelas de arte y clases de pintura y dibujo",
+							"subcategorias": [],
+							"color": "#C7AC83"
+						},
+						{
+							"categoria": "Escuelas de teatro y clases de actuación",
+							"subcategorias": [],
+							"color": "#C7AC83"
+						},
+						{
+							"categoria": "Escuelas de informática y cursos de programación",
+							"subcategorias": [],
+							"color": "#C7AC83"
+						},
+						{
+							"categoria": "Escuelas de negocios y cursos de administración",
+							"subcategorias": [],
+							"color": "#C7AC83"
+						},
+						{
+							"categoria": "Escuelas de diseño y cursos de diseño gráfico",
+							"subcategorias": [],
+							"color": "#C7AC83"
+						},
+						{
+							"categoria": "Escuelas de fotografia y cursos de fotografia",
+							"subcategorias": [],
+							"color": "#C7AC83"
+						},
+						{
+							"categoria": "Escuelas de cocina y clases de cocina",
+							"subcategorias": [],
+							"color": "#C7AC83"
+						},
+						{
+							"categoria": "Escuelas de conducción y cursos de manejo",
+							"subcategorias": [],
+							"color": "#C7AC83"
+						},
+						{
+							"categoria": "Escuelas de educación especial y clases de apoyo",
+							"subcategorias": [],
+							"color": "#C7AC83"
+						},
+						{
+							"categoria": "Escuelas de educación para adultos y cursos de capacitación laboral",
+							"subcategorias": [],
+							"color": "#C7AC83"
+						}
+					]
+				},
+				{
+					"categoria": "Entretenimiento",
+					"color": "#E37B1D",
+					"subcategorias": [
+						{ "categoria": "Cines", "subcategorias": [],
+						"color": "#E37B1D" },
+						{
+							"categoria": "teatros y Centros Culturales",
+							"color": "#E37B1D",
+							"subcategorias": [
+								{
+									"categoria": "Teatros y salas de espectáculos",
+									"subcategorias": [],
+									"color": "#E37B1D"
+								},
+								{
+									"categoria": "Salas de conciertos y recitales",
+									"subcategorias": [],
+									"color": "#E37B1D"
+								},
+								{
+									"categoria": "Centros de arte y cultura",
+									"subcategorias": [],
+									"color": "#E37B1D"
+								},
+								{
+									"categoria": "Galerias de arte y exposiciones",
+									"subcategorias": [],
+									"color": "#E37B1D"
+								}
+							]
+						},
+						{
+							"categoria": "Centros de juegos y recreativos",
+							"subcategorias": [],
+							"color": "#E37B1D"
+						},
+						{
+							"categoria": "Parques de atracciones y temáticos",
+							"subcategorias": [],
+							"color": "#E37B1D"
+						},
+						{
+							"categoria": "Centros de escape y juegos de aventura",
+							"subcategorias": [],
+							"color": "#E37B1D"
+						},
+						{ "categoria": "Boleras y pistas de boliche", "subcategorias": [],
+						"color": "#E37B1D" },
+						{
+							"categoria": "Parques acuáticos y piscinas",
+							"subcategorias": [],
+							"color": "#E37B1D"
+						},
+						{
+							"categoria": "Clubes nocturnos y discotecas",
+							"subcategorias": [],
+							"color": "#E37B1D"
+						},
+						{ "categoria": "Salones de karaoke", "subcategorias": [],
+						"color": "#E37B1D" },
+						{
+							"categoria": "Museos y centros de ciencias",
+							"subcategorias": [],
+							"color": "#E37B1D"
+						},
+						{ "categoria": "Bibliotecas y librerias", "subcategorias": [],
+						"color": "#E37B1D" },
+						{ "categoria": "Estadios y arenas deportivas", "subcategorias": [],
+						"color": "#E37B1D" }
+					]
+				},
+				{
+					"categoria": "Salud y servicios médicos",
+					"color": "#E5D8C1",
+					"subcategorias": [
+						{ "categoria": "Hospitales y clinicas", "subcategorias": [],
+						"color": "#E5D8C1" },
+						{
+							"categoria": "Consultorios médicos y odontológicos",
+							"subcategorias": [],
+							"color": "#E5D8C1"
+						},
+						{ "categoria": "Farmacias y droguerias", "subcategorias": [],
+						"color": "#E5D8C1" },
+						{
+							"categoria": "Laboratorios médicos y de análisis clinicos",
+							"subcategorias": [],
+							"color": "#E5D8C1"
+						},
+						{
+							"categoria": "Ópticas y centros de cuidado de la vista",
+							"subcategorias": [],
+							"color": "#E5D8C1"
+						},
+						{
+							"categoria": "Centros de rehabilitación y fisioterapia",
+							"subcategorias": [],
+							"color": "#E5D8C1"
+						},
+						{
+							"categoria": "Centros de atención psicológica y psiquiátrica",
+							"subcategorias": [],
+							"color": "#E5D8C1"
+						},
+						{
+							"categoria": "Centros de atención para adultos mayores",
+							"subcategorias": [],
+							"color": "#E5D8C1"
+						},
+						{
+							"categoria": "Centros de atención materno-infantil y pediátrica",
+							"subcategorias": [],
+							"color": "#E5D8C1"
+						},
+						{
+							"categoria": "Centros de atención de enfermedades especificas",
+							"subcategorias": [],
+							"color": "#E5D8C1"
+						},
+						{
+							"categoria": "Clinicas de atención de emergencia y urgencias médicas",
+							"subcategorias": [],
+							"color": "#E5D8C1"
+						},
+						{
+							"categoria": "Centros de salud mental y bienestar",
+							"subcategorias": [],
+							"color": "#E5D8C1"
+						},
+						{
+							"categoria": "Centros de medicina alternativa y terapias complementarias",
+							"subcategorias": [],
+							"color": "#E5D8C1"
+						},
+						{
+							"categoria": "Centros de atención de adicciones y desintoxicación",
+							"subcategorias": [],
+							"color": "#E5D8C1"
+						},
+						{
+							"categoria": "Centros de cuidado y asistencia domiciliaria",
+							"subcategorias": [],
+							"color": "#E5D8C1"
+						},
+						{
+							"categoria": "Centros de prevención y promoción de la salud",
+							"subcategorias": [],
+							"color": "#E5D8C1"
+						}
+					]
+				},
+				{
+					"categoria": "Transporte público",
+					"color": "#B2A896",
+					"subcategorias": [
+						{ "categoria": "Estaciones de tren", "subcategorias": [],
+						"color": "#B2A896" },
+						{
+							"categoria": "Estaciones de metro o subterráneo",
+							"subcategorias": [],
+							"color": "#B2A896"
+						},
+						{ "categoria": "Paradas de autobús", "subcategorias": [],
+						"color": "#B2A896" },
+						{
+							"categoria": "Terminales de autobuses o estaciones de autobuses",
+							"subcategorias": [],
+							"color": "#B2A896"
+						},
+						{
+							"categoria": "Estaciones de tranvia o trolebús",
+							"subcategorias": [],
+							"color": "#B2A896"
+						},
+						{ "categoria": "Estaciones de ferrocarril", "subcategorias": [],
+						"color": "#B2A896" },
+						{
+							"categoria": "Estaciones de bicicletas compartidas",
+							"subcategorias": [],
+							"color": "#B2A896"
+						},
+						{ "categoria": "Estaciones de taxis", "subcategorias": [],
+						"color": "#B2A896" },
+						{
+							"categoria": "Estaciones de teleféricos o funiculares",
+							"subcategorias": [],
+							"color": "#B2A896"
+						},
+						{
+							"categoria": "Puertos y terminales maritimas",
+							"subcategorias": [],
+							"color": "#B2A896"
+						}
+					]
+				}
+			]
+		},
+
+		{
+			"grupo": "Lugares de interés",
+			"subcategorias": [
+				{
+					"categoria": "Atracciones turísticas",
+					"color": "#59B1CA",
+					"subcategorias": [
+						{
+							"categoria": "Monumentos y sitios históricos",
+							"subcategorias": [],
+							"color": "#59B1CA"
+						},
+						{ "categoria": "Museos y galerías de arte",
+					"color": "#59B1CA",
+					 "subcategorias": [] },
+						{ "categoria": "Parques y jardines",
+					"color": "#59B1CA", "subcategorias": [] },
+						{
+							"categoria": "Miradores y puntos panorámicos",
+					"color": "#59B1CA",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Lugares religiosos y lugares de culto",
+					"color": "#59B1CA",
+							"subcategorias": []
+						},
+						{ "categoria": "Playas y costas",
+					"color": "#59B1CA", "subcategorias": [] },
+						{ "categoria": "Zoológicos y acuarios",
+					"color": "#59B1CA", "subcategorias": [] },
+						{
+							"categoria": "Parques temáticos y de atracciones",
+					"color": "#59B1CA",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Lugares naturales y paisajes",
+					"color": "#59B1CA",
+							"subcategorias": []
+						},
+						{ "categoria": "Lagos y lagunas",
+					"color": "#59B1CA", "subcategorias": [] },
+						{ "categoria": "Montañas y cordilleras",
+					"color": "#59B1CA", "subcategorias": [] },
+						{
+							"categoria": "Cuevas y formaciones geológicas",
+					"color": "#59B1CA",
+							"subcategorias": []
+						},
+						{ "categoria": "Cascadas y cataratas",
+					"color": "#59B1CA", "subcategorias": [] },
+						{
+							"categoria": "Reservas naturales y áreas protegidas",
+					"color": "#59B1CA",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Ruinas y yacimientos arqueológicos",
+					"color": "#59B1CA",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Recorridos turísticos y visitas guiadas",
+					"color": "#59B1CA",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Paseos en barco o embarcaciones turísticas",
+					"color": "#59B1CA",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Festivales y eventos culturales",
+					"color": "#59B1CA",
+							"subcategorias": []
+						}
+					]
+				},
+				{
+					"categoria": "Parques y naturaleza",
+					"color": "#80B9C6",
+					"subcategorias": [
+						{
+							"categoria": "Parques nacionales y reservas naturales",
+					"color": "#80B9C6",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Parques urbanos y espacios verdes",
+					"color": "#80B9C6",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Jardines botánicos y arboretos",
+					"color": "#80B9C6",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Senderos y rutas de senderismo",
+					"color": "#80B9C6",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Áreas de picnic y recreación al aire libre",
+					"color": "#80B9C6",
+							"subcategorias": []
+						},
+						{ "categoria": "Playas y costas",
+					"color": "#80B9C6", "subcategorias": [] },
+						{ "categoria": "Lagos y lagunas",
+					"color": "#80B9C6", "subcategorias": [] },
+						{ "categoria": "Montañas y cordilleras",
+					"color": "#80B9C6", "subcategorias": [] },
+						{ "categoria": "Cascadas y cataratas",
+					"color": "#80B9C6", "subcategorias": [] },
+						{ "categoria": "Bosques y selvas",
+					"color": "#80B9C6", "subcategorias": [] },
+						{ "categoria": "Desiertos y paisajes áridos",
+					"color": "#80B9C6", "subcategorias": [] },
+						{
+							"categoria": "Cuevas y formaciones geológicas",
+					"color": "#80B9C6",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Miradores y puntos panorámicos",
+					"color": "#80B9C6",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Observación de aves y fauna silvestre",
+					"color": "#80B9C6",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Actividades de ecoturismo y turismo de naturaleza",
+					"color": "#80B9C6",
+							"subcategorias": []
+						}
+					]
+				},
+				{
+					"categoria": "Museos y galerías",
+					"color": "#97C1CC",
+					"subcategorias": [
+						{ "categoria": "Museos de arte",
+					"color": "#97C1CC", "subcategorias": [] },
+						{ "categoria": "Museos de historia",
+					"color": "#97C1CC", "subcategorias": [] },
+						{ "categoria": "Museos de ciencias",
+					"color": "#97C1CC", "subcategorias": [] },
+						{
+							"categoria": "Galerias de arte contemporáneo",
+					"color": "#97C1CC",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Galerías de arte tradicional",
+					"color": "#97C1CC",
+							"subcategorias": []
+						},
+						{ "categoria": "Museos de historia natural",
+					"color": "#97C1CC", "subcategorias": [] },
+						{ "categoria": "Museos de arqueologia",
+					"color": "#97C1CC", "subcategorias": [] },
+						{
+							"categoria": "Museos de tecnologia e innovación",
+					"color": "#97C1CC",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Museos temáticos",
+					"color": "#97C1CC",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Galerias de fotografia y exposiciones visuales",
+					"color": "#97C1CC",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Museos de antropologia y culturas locales",
+					"color": "#97C1CC",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Museos interactivos y de experiencias",
+					"color": "#97C1CC",
+							"subcategorias": []
+						},
+						{ "categoria": "Museos de arte moderno",
+					"color": "#97C1CC", "subcategorias": [] },
+						{
+							"categoria": "Museos de diseño y arquitectura",
+					"color": "#97C1CC",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Galerias de arte independientes",
+					"color": "#97C1CC",
+							"subcategorias": []
+						},
+						{ "categoria": "Museos de bellas artes",
+					"color": "#97C1CC", "subcategorias": [] },
+						{
+							"categoria": "Museos de automóviles y transporte",
+					"color": "#97C1CC",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Museos de juguetes y coleccionables",
+					"color": "#97C1CC",
+							"subcategorias": []
+						}
+					]
+				},
+				{
+					"categoria": "Lugares históricos",
+					"color": "#C1DEE5",
+					"subcategorias": [
+						{
+							"categoria": "Monumentos y estatuas históricas",
+					"color": "#C1DEE5",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Sitios arqueológicos y ruinas antiguas",
+					"color": "#C1DEE5",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Edificios y estructuras históricas",
+					"color": "#C1DEE5",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Lugares de importancia histórica",
+					"color": "#C1DEE5",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Lugares de batallas históricas",
+					"color": "#C1DEE5",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Tumbas y mausoleos históricos",
+					"color": "#C1DEE5",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Sitios de patrimonio mundial de la UNESCO",
+					"color": "#C1DEE5",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Casas y residencias históricas",
+					"color": "#C1DEE5",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Iglesias y catedrales históricas",
+					"color": "#C1DEE5",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Museos de historia local y regional",
+					"color": "#C1DEE5",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Fortalezas y castillos históricos",
+					"color": "#C1DEE5",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Puentes y viaductos históricos",
+					"color": "#C1DEE5",
+							"subcategorias": []
+						},
+						{ "categoria": "Plazas y plazas históricas",
+					"color": "#C1DEE5", "subcategorias": [] },
+						{
+							"categoria": "Cementerios y lugares de entierro históricos",
+					"color": "#C1DEE5",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Antiguas rutas y caminos históricos",
+					"color": "#C1DEE5",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Monumentos conmemorativos y memoriales históricos",
+					"color": "#C1DEE5",
+							"subcategorias": []
+						},
+						{
+							"categoria": "Sitios de importancia cultural y tradicional",
+					"color": "#C1DEE5",
+							"subcategorias": []
+						}
+					]
+				}
+			]
+		}
+	]
+}

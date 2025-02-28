@@ -1,0 +1,150 @@
+.contenedor {
+	position: relative;
+	height: auto;
+	/* background-color: #f0f0f0; */
+}
+
+.contenedor::after {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	height: 45%;
+	background: linear-gradient(to bottom, transparent, #f0f0f0);
+	pointer-events: none;
+}
+
+/* .contenedorfade-out {
+  max-height: 0;
+  opacity: 0;
+} */
+
+.contenedorfade-out::after {
+	/* background: linear-gradient(to bottom, transparent, transparent); */
+}
+
+/* ----------------------------------------------------- */
+
+/* Estilos personalizados para React Big Calendar */
+
+/* Cambiar el color de fondo del calendario */
+.rbc-calendar {
+	background-color: #f3f5f69a;
+	border-radius: 10px;
+	border: 1px solid #999999;
+	width: 100%;
+}
+
+.rbc-btn-group > button {
+	border-radius: 10px !important;
+	background-color: #c7abc96c !important;
+	border: 0px !important;
+	margin: 2px !important;
+}
+
+.rbc-btn-group > button:hover {
+	border-radius: 10px !important;
+	background-color: #984d98 !important;
+	color: white !important;
+	border: 0px !important;
+	margin: 2px !important;
+	cursor: pointer;
+}
+.rbc-button-link {
+	font-family: 'Rubik';
+	font-size: 11px !important;
+}
+.rbc-show-more {
+	color: purple !important;
+}
+
+.rbc-toolbar {
+	border-radius: 10px;
+}
+
+.rbc-month-view:last-child .rbc-day-bg {
+	border-radius: 10px !important;
+}
+.rbc-month-view {
+	border-radius: 10px !important;
+}
+
+.rbc-header {
+	font-family: 'Rubik';
+	font-size: 14px !important;
+}
+
+.rbc-toolbar-label {
+	font-family: 'Rubik';
+	font-size: 14px !important;
+}
+
+/* .rbc-event,
+.rbc-event-content,
+.rbc-event-allday,
+.rbc-event-continues-after {
+	background-color: #984d98 !important;
+	font-size: 12px !important;
+} */
+/* .rbc-event-content {
+	font-family: 'Rubik';
+	background-color: transparent !important;
+} */
+.rbc-time-slot {
+	font-family: 'Rubik';
+	font-size: 12px !important;
+}
+
+div.rbc-event-label,
+.rbc-event-content {
+	color: white !important;
+	font-family: 'Rubik';
+	font-size: 12px !important;
+	background-color: transparent !important;
+}
+
+.rbc-today {
+	background-color: #c7abc96c !important;
+}
+
+.rbc-month-view
+	.rbc-month-row:last-child
+	.rbc-row-content
+	> div:last-child
+	.rbc-day-bg {
+	border-bottom-right-radius: 20px !important; /* Ajusta el radio del borde inferior derecho */
+}
+
+/* Cambiar los colores de los días del mes */
+.rbc-month-view .rbc-month-row {
+	color: #333; /* Color del texto del día */
+}
+
+.rbc-event {
+}
+
+/* Cambiar el color del borde de los eventos */
+.rbc-event {
+	border: 1px solid #ff0000;
+}
+
+/* Cambiar el color de fondo del evento */
+.rbc-event-content {
+	background-color: #337ab7; /* Color de fondo del evento */
+}
+
+/* Cambiar el color del texto del evento */
+.rbc-event-label {
+	color: #ff0000 !important; /* Color del texto del evento */
+}
+
+/* Cambiar el radio de los bordes del evento */
+.rbc-event {
+	border-radius: 4px; /* Radio de borde del evento */
+}
+
+/* Cambiar la tipografía del calendario */
+.rbc-calendar {
+	font-family: Arial, sans-serif; /* Tipografía del calendario */
+}

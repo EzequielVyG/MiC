@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap" rel="stylesheet">
+    <style>
+        @font-face {
+            font-family: 'Rubik', Arial, sans-serif;
+            font-style: normal;
+            font-weight: 300;
+            font-display: swap;
+            src: url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap') format('woff2');
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Rubik', sans-serif;
+            background-color: #fff;
+        }
+
+        .container {
+            max-width: 500px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .section {
+            text-align: center;
+            padding: 10px 0;
+        }
+
+        .divider {
+            border-top: 1px solid #bbb;
+        }
+
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: lightskyblue;
+            color: #fff;
+            text-decoration: none;
+            border-radius: 4px;
+            font-weight: 400;
+            font-size: 14px;
+        }
+
+        .footer {
+            color: #7e7e7e;
+            font-size: 14px;
+            line-height: 1.2;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="section">
+            <img src="https://drive.google.com/uc?id=1WbtIB56i76_Ul3QK2MLCBNHhl1fPzXyV" alt="Logo de MIC"
+                style="max-width: 30%;">
+            <h1>{{title}}</h1>
+        </div>
+        <div class="divider"></div>
+        <div class="section">
+            <p>{{body}}</p>
+        </div>
+        <div class="divider"></div>
+        <div class="section">
+            <a class="button" href="{{buttonLink}}" target="_blank" style="color: black;">{{buttonText}}</a>
+            <br />
+            <p>O copia y pega el siguiente enlace en tu navegador:</p>
+            <p>{{buttonLink}}</p>
+        </div>
+        <div class="divider"></div>
+        <div class="section footer">
+            <p>{{footer}}</p>
+        </div>
+    </div>
+</body>
+
+</html>

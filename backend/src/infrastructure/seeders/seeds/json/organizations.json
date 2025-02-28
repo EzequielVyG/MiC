@@ -1,0 +1,65 @@
+[
+	{
+		"legalName": "CAMAD",
+		"address": "Gob. Galina y Paulina Escardó",
+		"cuit": "30-11111111-3",
+		"cmi": "+54",
+		"phone": "280 506 0424",
+		"status": "IN_REVIEW",
+		"owned": {
+			"email": "admin@admin.com"
+		},
+		"validator": {
+			"email": "markeljaureguibehere@hotmail.com.ar"
+		},
+		"operators": [
+			{
+				"email": "valenverdi17@gmail.com"
+			},
+			{
+				"email": "evalleygarcia@gmail.com"
+			}
+		]
+	},
+	{
+		"legalName": "UNPSJB",
+		"address": "Bv. Almte Brown 3051, U9120 Puerto Madryn, Chubut",
+		"cuit": "30-11111111-3",
+		"cmi": "+54",
+		"phone": "280 506 0424",
+		"status": "ACTIVE",
+		"owned": {
+			"email": "admin@admin.com"
+		},
+		"validator": {
+			"email": "markeljaureguibehere@hotmail.com.ar"
+		},
+		"operators": [
+			{
+				"email": "demian.barry@gmail.com"
+			},
+			{
+				"email": "juanmanuelcortez@gmail.com"
+			}
+		]
+	},
+	{
+		"legalName": "Ecocentro",
+		"address": "Julio Verne 3784",
+		"cuit": "30-22222222-3",
+		"cmi": "+54",
+		"phone": "280 488 3176",
+		"status": "PENDING",
+		"owned": {
+			"email": "lautaroverdii@gmail.com"
+		},
+		"operators": [
+			{
+				"email": "alejandro.solaleiva@gmail.com"
+			},
+			{
+				"email": "medina.4gus@gmail.com"
+			}
+		]
+	}
+]

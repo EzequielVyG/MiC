@@ -1,0 +1,2704 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.780178,
+        "lng": -65.0008786
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.77897887010728,
+          "lng": -64.99931482010727
+        },
+        "southwest": {
+          "lat": -42.78167852989272,
+          "lng": -65.00201447989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Histórico Punta Cuevas Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116430077566875206956\">Juan José Amistadi</a>"
+        ],
+        "photo_reference": "AUacShg8hcU9q3lOYQ81JbX7fZ2BsN3cGVW0w8GzFW0v_xGDYrEVYv7mIVkMkiQ7OaEVo8lB2LkXTequdqR9nbi03h6Tfys4KkL4pCYRHK98Rx2Q4H6x2hUHvZulEfPLuzV8DbFJJk0jBUQI-_9_GG7sWq011siPx6DxkDGcHx_rU7aH_Bhr",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJWdJ_eLZKAr4RzuYLqZQsj2k",
+    "plus_code": {
+      "compound_code": "6X9X+WJ Puerto Madryn, Chubut Province",
+      "global_code": "479P6X9X+WJ"
+    },
+    "rating": 4.6,
+    "reference": "ChIJWdJ_eLZKAr4RzuYLqZQsj2k",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1223,
+    "vicinity": "Bv. Almte Brown 3777, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7802983,
+        "lng": -64.9991781
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.77897677010727,
+          "lng": -64.99784917010729
+        },
+        "southwest": {
+          "lat": -42.78167642989272,
+          "lng": -65.00054882989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Monumento al Indio Tehuelche",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113731459932654142126\">Rubén Sarges Guerra</a>"
+        ],
+        "photo_reference": "AUacShiaZAa3YTxiXVaue4PiOpvqbPxazl3wLKfVG_5w-hdqpc8sa1Bq4hxWF3andsMCN5VbIsYZs4yzF-MAGtx2C3tMp3M0c8n3CX8XrM6TiMYZI5noENGqliQYXwOzKBiLw94gs83NEhENLzgnX2Qa3cW7jM8gfek1x0esNo8UM0Z-cuEd",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJYU0m3rVKAr4RCBMifQfaaQE",
+    "plus_code": {
+      "compound_code": "6292+V8 Puerto Madryn, Chubut Province",
+      "global_code": "479Q6292+V8"
+    },
+    "rating": 4.5,
+    "reference": "ChIJYU0m3rVKAr4RCBMifQfaaQE",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2163,
+    "vicinity": "Bv. Almte Brown, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.779852,
+        "lng": -65.0189664
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.77856397010727,
+          "lng": -65.0177089701073
+        },
+        "southwest": {
+          "lat": -42.78126362989271,
+          "lng": -65.02040862989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Proyecto Iris",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2322,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106300576110507645557\">Perla González</a>"
+        ],
+        "photo_reference": "AUacShhmnRpCoagdvUEbYNIYLBtTwLkveQXTrOZTf3zBjK4jrTzQTGwLXdQNqx6Habhq69S1fOUcf0Noz60XXojtOVZtu48hlcKfYLR5DXnNBvVEAgb2PCCUaaxVmmNOZxSgwj6UjGocxuwn9sveENRQScOwNXAfRzWEKFPbQsZE1Tloyxjt",
+        "width": 4128
+      }
+    ],
+    "place_id": "ChIJD_5YO69KAr4R9TJX-owNL8g",
+    "plus_code": {
+      "compound_code": "6XCJ+3C Puerto Madryn, Chubut Province",
+      "global_code": "479P6XCJ+3C"
+    },
+    "rating": 4.4,
+    "reference": "ChIJD_5YO69KAr4R9TJX-owNL8g",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 495,
+    "vicinity": "Bv. Almte Brown, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7812691,
+        "lng": -64.9969029
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.77994187010727,
+          "lng": -64.99559067010728
+        },
+        "southwest": {
+          "lat": -42.78264152989271,
+          "lng": -64.99829032989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Plazoleta de los Desaparecidos en el Mar",
+    "photos": [
+      {
+        "height": 3472,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109179922522840125601\">A Google User</a>"
+        ],
+        "photo_reference": "AUacShiCdG0lPFpNdBjeNk_kSoIwt5Cm2y1vYjzIR25hyMNDv6i_AvO5gP8POHKX9A6bQHbvKQAo4NmnczL4sWTzsBTGzvolHDDRfi3EzNByW7RDN-LVpe8r980g2_kwyd4IvictBKmK_uRX4m6K0jNXc81df7YXlqosqiTv02cRmtqn1suM",
+        "width": 4640
+      }
+    ],
+    "place_id": "ChIJL-eSZ91LAr4RbmRbGQTWeVo",
+    "plus_code": {
+      "compound_code": "6293+F6 Puerto Madryn, Chubut Province",
+      "global_code": "479Q6293+F6"
+    },
+    "rating": 5,
+    "reference": "ChIJL-eSZ91LAr4RbmRbGQTWeVo",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Bv. Almte Brown, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.76362169999999,
+        "lng": -65.03483109999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.76225607010727,
+          "lng": -65.03350022010729
+        },
+        "southwest": {
+          "lat": -42.76495572989271,
+          "lng": -65.03619987989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Puerto pirámides",
+    "photos": [
+      {
+        "height": 1840,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118164276488482604735\">Carlos Molina</a>"
+        ],
+        "photo_reference": "AUacShhuszk1SYmf9Gkcs8Va30yoWK-zmN0vV7t6_B-uPRi_MqoRjy_GttqeaEHNyIQsKyRz1q5ZKJOt1Q_SwHhETPG3WGMBMrwKgylvni871rfsIsLqOi6tLX-03iu8EAHUb-pdO5ooKDjM3l7khFlDcefYlHOt_OHzuwbYhSO53vqrdFtc",
+        "width": 4096
+      }
+    ],
+    "place_id": "ChIJTa-K4_tLAr4R3BbqEj9fYTk",
+    "plus_code": {
+      "compound_code": "6XP8+H3 Puerto Madryn, Chubut Province",
+      "global_code": "479P6XP8+H3"
+    },
+    "rating": 5,
+    "reference": "ChIJTa-K4_tLAr4R3BbqEj9fYTk",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Av. Guillermo Rawson, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.76362169999999,
+        "lng": -65.03483109999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.76227302010727,
+          "lng": -65.03348037010727
+        },
+        "southwest": {
+          "lat": -42.76497267989271,
+          "lng": -65.03618002989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Pinguinos",
+    "place_id": "ChIJu_ZHLDpLAr4RKfiJRcYX4Wk",
+    "plus_code": {
+      "compound_code": "6XP8+H3 Puerto Madryn, Chubut Province",
+      "global_code": "479P6XP8+H3"
+    },
+    "rating": 0,
+    "reference": "ChIJu_ZHLDpLAr4RKfiJRcYX4Wk",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7741788,
+        "lng": -65.03631500000002
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.77282897010728,
+          "lng": -65.03496517010728
+        },
+        "southwest": {
+          "lat": -42.77552862989273,
+          "lng": -65.03766482989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Sergio Posternak",
+    "place_id": "ChIJMaukQo41Ar4RB63oOFJuXhM",
+    "plus_code": {
+      "compound_code": "6XG7+8F Puerto Madryn, Chubut Province",
+      "global_code": "479P6XG7+8F"
+    },
+    "rating": 0,
+    "reference": "ChIJMaukQo41Ar4RB63oOFJuXhM",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "Gdor. Alejandro Maiz, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7806631,
+        "lng": -65.0182827
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.77931327010727,
+          "lng": -65.01693287010728
+        },
+        "southwest": {
+          "lat": -42.78201292989272,
+          "lng": -65.01963252989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Muestra fotografica",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109356575347337141108\">LORENA GALVAN FONTANA</a>"
+        ],
+        "photo_reference": "AUacShgPCKHenBxZK-P2HiSkDBZkrBEbORO-gd730A1lP_lK59tHbbyXZ0ix1sNCsX2_JK960p4AeRIMT42ozxgmdLwecBVbCm9Bws343xcS1ivyd3P5eqHapDtw7hSfxvL0QQ-iw7PvoZziUAu9h5hSlXK_M_8RwEL-JhuT0NLPQhws89v9",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJhVrrvFRLAr4R3Y9CPqCO43M",
+    "plus_code": {
+      "compound_code": "6X9J+PM Puerto Madryn, Chubut Province",
+      "global_code": "479P6X9J+PM"
+    },
+    "rating": 5,
+    "reference": "ChIJhVrrvFRLAr4R3Y9CPqCO43M",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Bv. Almte Brown, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.766028,
+        "lng": -65.0324676
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.76479877010728,
+          "lng": -65.03146467010728
+        },
+        "southwest": {
+          "lat": -42.76749842989273,
+          "lng": -65.03416432989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Praia de puerto madryn",
+    "photos": [
+      {
+        "height": 1330,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112365175351134526748\">Leo Ibacache</a>"
+        ],
+        "photo_reference": "AUacShhO_wiAUu701nhkH1m02dW6bflCbnyCYYAAFNjcNFYhI7tFfFmPCi_thnCBZUdn1Y7f8Ilh6lC7sOns2ewiaqQ7B1-8H-hP5LGCE8lyYhSxaaIkm_M7tQxojTo5108TGUNMsmuUNumGc_31_n6xPsBuX3hn8bPNeO32blAXkO-722di",
+        "width": 2000
+      }
+    ],
+    "place_id": "ChIJVamPyspLAr4R-PaldMytzqs",
+    "plus_code": {
+      "compound_code": "6XM9+H2 Puerto Madryn, Chubut Province",
+      "global_code": "479P6XM9+H2"
+    },
+    "rating": 0,
+    "reference": "ChIJVamPyspLAr4R-PaldMytzqs",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "Av. Julio Argentino Roca 251, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7635503,
+        "lng": -65.0347183
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.76221387010727,
+          "lng": -65.03341242010727
+        },
+        "southwest": {
+          "lat": -42.76491352989272,
+          "lng": -65.03611207989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Puerto madryn",
+    "photos": [
+      {
+        "height": 3096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112555007947629762773\">JORGE LUIS MENDICINO</a>"
+        ],
+        "photo_reference": "AUacShhwN0Qzk16l9QGrpXdYLwuKrr87PrRztIKQHGC6Gg88TzqvvMIbw0pzP21U-8-yu7U0pw0xfE6yC2-m8pa3YFdWHHLY0Eea12jYZ0NqGnLn45gNs8j0MzIEeQdkviFpLLx1_nXcYPTqmhj7SopKBxTAQ5vXssXBW5G1ZqIIqj0YGUmR",
+        "width": 4128
+      }
+    ],
+    "place_id": "ChIJF5_yZ5dLAr4RnU7ug1VnJUU",
+    "plus_code": {
+      "compound_code": "6XP8+H4 Puerto Madryn, Chubut Province",
+      "global_code": "479P6XP8+H4"
+    },
+    "rating": 4.5,
+    "reference": "ChIJF5_yZ5dLAr4RnU7ug1VnJUU",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Av. Guillermo Rawson 12, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.76814770000001,
+        "lng": -65.0311959
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.76679787010728,
+          "lng": -65.02984607010728
+        },
+        "southwest": {
+          "lat": -42.76949752989272,
+          "lng": -65.03254572989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Playa Puerto Madryn",
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108984008605972190228\">Lola G</a>"
+        ],
+        "photo_reference": "AUacShjPMZ3u63YYuALTnHqTHpmovO8xS3HiLHRHZbGvbf-FQ2PX0oHYMtoS5dd5BRdFfc7rDYK0i8yY_CFxZ2wGZNFuO5qoxFiEpZEOaXLsHIzvgeqx9mUXNsDOCBDTqtqb2C6t3JtoF892PynG-KBVREGsh95UHiEFOhPIvYFE2OdNIEdM",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJTzBAxUpLAr4Rp0EuIP4Hf8o",
+    "plus_code": {
+      "compound_code": "6XJ9+PG Puerto Madryn, Chubut Province",
+      "global_code": "479P6XJ9+PG"
+    },
+    "rating": 0,
+    "reference": "ChIJTzBAxUpLAr4Rp0EuIP4Hf8o",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7765353,
+        "lng": -65.0427275
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.77518962010728,
+          "lng": -65.04127067010728
+        },
+        "southwest": {
+          "lat": -42.77788927989273,
+          "lng": -65.04397032989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Gemas",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2322,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108306041390292082080\">stella maris limbozzi</a>"
+        ],
+        "photo_reference": "AUacShhPMkmZa8gi_blbsSxVUoyJ2h7_74sx2mCIq_1_VaK8lkKODcYPgEZYqA1Q608RXfpdDzP9CeFQHZECmfRFIs9AfbMIsfbqpeejMu3VxCzv3-DmF_cQJIyD7fc0fKQvifBST_VmZNYSKc0wfnD9VUhOk4iqfTny8dkf1Kehxv2UcRb9",
+        "width": 4128
+      }
+    ],
+    "place_id": "ChIJU5IzcF01Ar4R5tAvpEAWcT8",
+    "plus_code": {
+      "compound_code": "6XF4+9W Puerto Madryn, Chubut Province",
+      "global_code": "479P6XF4+9W"
+    },
+    "rating": 4.3,
+    "reference": "ChIJU5IzcF01Ar4R5tAvpEAWcT8",
+    "scope": "GOOGLE",
+    "types": [
+      "museum",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 664,
+    "vicinity": "San Luis 805, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7678728,
+        "lng": -65.03192270000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.76654262010728,
+          "lng": -65.03062662010727
+        },
+        "southwest": {
+          "lat": -42.76924227989272,
+          "lng": -65.03332627989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+    "name": "Municipal Museum of Art",
+    "photos": [
+      {
+        "height": 1032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114849090004761106910\">carla mayo</a>"
+        ],
+        "photo_reference": "AUacShiuaxd5GZwSdg1_NM0PcFGDe19dD8VbuGB81O4G6qitKi6yht8s6SU1NZhEw_cQuqNcrQec9Rw8_0uaMKGDw4RTJrA7F-8fYrbNDpI6kXiTscg_PX5Hh5ElVpkxFOEwTIOGSVZFuI7C5WHvI_3jueobwher8fpv3DKaP0s7wo5_QnMW",
+        "width": 581
+      }
+    ],
+    "place_id": "ChIJCw8fDJxKAr4R5Ph4rQLLBz0",
+    "plus_code": {
+      "compound_code": "6XJ9+V7 Puerto Madryn, Chubut Province",
+      "global_code": "479P6XJ9+V7"
+    },
+    "rating": 4.3,
+    "reference": "ChIJCw8fDJxKAr4R5Ph4rQLLBz0",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "museum",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 52,
+    "vicinity": "Av. Julio Argentino Roca 400-500, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7654259,
+        "lng": -65.0330185
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.76407607010728,
+          "lng": -65.03166867010728
+        },
+        "southwest": {
+          "lat": -42.76677572989272,
+          "lng": -65.03436832989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Monumento a la Bandera",
+    "photos": [
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112703745563542563357\">Javier Facal</a>"
+        ],
+        "photo_reference": "AUacShgnsdlkT_B8LHeSVG1pt3wQC2YjCjuuqlQtoaMjMiT4zWmWiqfLsjFCKzSOAjsAkMchU1McqezvNERjoJUw9YqCFdX3Xy7MEuMNoW63sBU30oN_PiHboTvRauJFzB0CmzIER4VCYalCjKnSIw4BrIe3q4NCYHgLJO_8v22vu1F00XoG",
+        "width": 2604
+      }
+    ],
+    "place_id": "ChIJadRSTuVLAr4RmCg4oxo9LX0",
+    "plus_code": {
+      "compound_code": "6XM8+RQ Puerto Madryn, Chubut Province",
+      "global_code": "479P6XM8+RQ"
+    },
+    "rating": 5,
+    "reference": "ChIJadRSTuVLAr4RmCg4oxo9LX0",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "el paseo de la rambla, 28 de Julio &, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7801652,
+        "lng": -65.0002172
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.77885732010727,
+          "lng": -64.99882112010728
+        },
+        "southwest": {
+          "lat": -42.78155697989271,
+          "lng": -65.00152077989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Mástil de Banderas de Punta Cuevas - Punto Panorámico",
+    "photos": [
+      {
+        "height": 1868,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110308161528800111380\">Carolina Molfino</a>"
+        ],
+        "photo_reference": "AUacShjTmw-GAukTNOJ62UqOtmXBSsbpxmbcGbm0_txg_Oq3etRW-DqPoXLgwqx9PjhH5Ni8I1SeD-8hCOS8Co1_OH90Y5sGgMBWnZz-bEsCF1wo2L4QlewxmNekm6wjjLLwPkd8UjysxUNJnud_lHkmmh7wn0wt7_Vdi2x8cOogjx5aos6O",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJb0mxRYJLAr4RG6fumZKWo_c",
+    "plus_code": {
+      "compound_code": "6X9X+WW Puerto Madryn, Chubut Province",
+      "global_code": "479P6X9X+WW"
+    },
+    "rating": 4.8,
+    "reference": "ChIJb0mxRYJLAr4RG6fumZKWo_c",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20,
+    "vicinity": "Punta Cuevas, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7631222,
+        "lng": -65.0337699
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.76181572010726,
+          "lng": -65.03241102010728
+        },
+        "southwest": {
+          "lat": -42.76451537989271,
+          "lng": -65.03511067989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Comandante Luis Piedra Buena Pier",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103644260412218735027\">A Google User</a>"
+        ],
+        "photo_reference": "AUacShjD4B6fwR0HBGqfHBHdX-byn_rfaH0jH8Bxe7p88gqoMaeZ7D5oGhtiMhP0hMFATTj6CEfkrrGqXjFSV74xdRt-7Xq4MCxogW-L2Cetc87fAtfMxp06vm8BTuy08umHF3T5NyUuQKmt8OW3cf8_Zehq9kisKw5Ysn70dEAprFRaAj9y",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJd0ErwIRKAr4RKDCdE3EJHt8",
+    "plus_code": {
+      "compound_code": "6XP8+QF Puerto Madryn, Chubut Province",
+      "global_code": "479P6XP8+QF"
+    },
+    "rating": 4.6,
+    "reference": "ChIJd0ErwIRKAr4RKDCdE3EJHt8",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4991,
+    "vicinity": "100, Av. Guillermo Rawson 1, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7663058,
+        "lng": -65.0972453
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.76487557010727,
+          "lng": -65.09599367010728
+        },
+        "southwest": {
+          "lat": -42.76757522989271,
+          "lng": -65.09869332989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Letras Puerto Madryn",
+    "photos": [
+      {
+        "height": 2592,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117295658408287429792\">Stefany Molina</a>"
+        ],
+        "photo_reference": "AUacShiTJHGRlePGrJBcvWjGelCQU3aOStvUNUlvJ1Z1wvtWdG6oh2RIAAeCGOrvmd_eVEmOhUucr90r6UmR6-PevMdtmTTLpjmuBWY86uz_4hnj5jU2FfmKhl82_KSm01NokJoDlS1pKx0aa7fQGU3wsIbv2ppCu5bZRctEWjUOsr-OCsCx",
+        "width": 4344
+      }
+    ],
+    "place_id": "ChIJV7egXPc1Ar4RAvjm4D4JgZE",
+    "plus_code": {
+      "compound_code": "6WM3+F4 Puerto Madryn, Chubut Province",
+      "global_code": "479P6WM3+F4"
+    },
+    "rating": 5,
+    "reference": "ChIJV7egXPc1Ar4RAvjm4D4JgZE",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.78652839999999,
+        "lng": -64.9998476
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.78508662010728,
+          "lng": -64.99841802010727
+        },
+        "southwest": {
+          "lat": -42.78778627989272,
+          "lng": -65.00111767989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Plaza Los Médanos",
+    "place_id": "ChIJ3-rPN8u1A74RRj_bvGSoPfI",
+    "plus_code": {
+      "compound_code": "6272+93 Puerto Madryn, Chubut Province",
+      "global_code": "479Q6272+93"
+    },
+    "rating": 0,
+    "reference": "ChIJ3-rPN8u1A74RRj_bvGSoPfI",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7604598,
+        "lng": -65.04467869999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.75903787010729,
+          "lng": -65.04324937010728
+        },
+        "southwest": {
+          "lat": -42.76173752989273,
+          "lng": -65.04594902989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Plaza Juan Muzzio",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117721217580487292311\">A Google User</a>"
+        ],
+        "photo_reference": "AUacShh5vG68VNsdFifX_sENe7lsU-y6noE_8CEdngJbWhDOwEwQBBk0anjJoNGwsmqDD6Qsn_Jz1_WUpC4p3DlTpbu2oE0lM2qemq4XIZLtkxdHb6S3yXhIY7o34TrpDG4m52Px_c0FxITOx5f-DMB_quj6J4JRorkeaM53CEslQijbS2L-",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJXSiUMNZLAr4RIgdHliXMe0g",
+    "plus_code": {
+      "compound_code": "6XQ4+R4 Puerto Madryn, Chubut Province",
+      "global_code": "479P6XQ4+R4"
+    },
+    "rating": 3.8,
+    "reference": "ChIJXSiUMNZLAr4RIgdHliXMe0g",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7672953,
+        "lng": -65.0366049
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.76584127010728,
+          "lng": -65.03492942010728
+        },
+        "southwest": {
+          "lat": -42.76854092989272,
+          "lng": -65.03762907989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Monumento al General San Martín",
+    "photos": [
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112703745563542563357\">Javier Facal</a>"
+        ],
+        "photo_reference": "AUacShjLTJD6T4c7yQZSv-QXSR99gq7zHOCD8W-6DF7fMhnYAuM6UJQ1PBUzNnOa7BgTTnGCvn-vR-TyjN3Ho1Pn5kNjj8GTzL-Qtw25b-Pw5DyLmSF--Gi9_uEa-UDbdo15FWHzKqon4qaxCxv9E2Kv-r20R48bTo2YVVlXVfVhAK7gbOrF",
+        "width": 2604
+      }
+    ],
+    "place_id": "ChIJife4TI5LAr4RlJftjw2_ZKU",
+    "plus_code": {
+      "compound_code": "6XM7+39 Puerto Madryn, Chubut Province",
+      "global_code": "479P6XM7+39"
+    },
+    "rating": 5,
+    "reference": "ChIJife4TI5LAr4RlJftjw2_ZKU",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "28 de Julio, Bartolomé Mitre &, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7655896,
+        "lng": -65.0332971
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.76428277010728,
+          "lng": -65.03207092010727
+        },
+        "southwest": {
+          "lat": -42.76698242989272,
+          "lng": -65.03477057989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Fuente de agua sobre la rambla",
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117625466802247523166\">Juan Edgardo Meza</a>"
+        ],
+        "photo_reference": "AUacShi3zrvGPAuAGV4lqxE-Y1p3zyN4Mh-yEvV7fZN4aO-NXJgt0nr6xluVdgnzX0smpJV7rV6ZXw8AZEY-wnO5DWcWw3TRR_ERjeLdbDPC2uu1MCjtZ0ok-l2mXCAhbOs1Lig1c8zhavrwHN3deZUAQPrXtcGXQPCuVoI3LWdSvHQ-4fPI",
+        "width": 4096
+      }
+    ],
+    "place_id": "ChIJrTmhTZRLAr4RlO4WpKz3IZw",
+    "plus_code": {
+      "compound_code": "6XM8+QM Puerto Madryn, Chubut Province",
+      "global_code": "479P6XM8+QM"
+    },
+    "rating": 0,
+    "reference": "ChIJrTmhTZRLAr4RlO4WpKz3IZw",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "28 de Julio 2, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7672066,
+        "lng": -65.0366547
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.76575292010727,
+          "lng": -65.03498047010727
+        },
+        "southwest": {
+          "lat": -42.76845257989272,
+          "lng": -65.03768012989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Plaza Puerto Madryn",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100135514216839480596\">Francisco BRRAS CRUZ</a>"
+        ],
+        "photo_reference": "AUacShgaLWixIaCrSC1qsU4iUYENL62tZqbU0_qm44-cjwWgd9cxEIb_8WMlP2C5UWpr_dix-VDFw_5YeegN6NE2_O9LMvAXHkeK1OLnGwKPpA4OMcLXI6m9g7xCPR4MwBHeMsieNifpfECIOgP7EFCoGsyXhnbTQh6AJGTLY3VgLGZsbOCI",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJN8AmCJ1KAr4Rc2oYQvbfpeI",
+    "plus_code": {
+      "compound_code": "6XM7+48 Puerto Madryn, Chubut Province",
+      "global_code": "479P6XM7+48"
+    },
+    "rating": 4.2,
+    "reference": "ChIJN8AmCJ1KAr4Rc2oYQvbfpeI",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4879,
+    "vicinity": "Bartolomé Mitre 199-299, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7532896,
+        "lng": -65.052336
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.75191532010728,
+          "lng": -65.05111557010729
+        },
+        "southwest": {
+          "lat": -42.75461497989272,
+          "lng": -65.05381522989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "fachero Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113507680282164748402\">A Google User</a>"
+        ],
+        "photo_reference": "AUacShjiAs0Zlae3hmtkctUsS6TL6U4uZsyHfqdz32Ev2lnOILHlSFy3KdDcwMEP3UoYs42v7zm-JkzjV9K-SQMTjshHrKGMqfIZ_j5ul27fz1W3HP8J2QXbd0OGuLq5MLdX_qBRTvBmVVERr-G4YheWkv08HqIPkO8ysFop08ejdlGHGhnZ",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJiTQlz2o1Ar4RUC_47u9miZk",
+    "plus_code": {
+      "compound_code": "6WWX+M3 Puerto Madryn, Chubut Province",
+      "global_code": "479P6WWX+M3"
+    },
+    "rating": 5,
+    "reference": "ChIJiTQlz2o1Ar4RUC_47u9miZk",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.74263010000001,
+        "lng": -65.0984999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.74129147010728,
+          "lng": -65.09714502010728
+        },
+        "southwest": {
+          "lat": -42.74399112989272,
+          "lng": -65.09984467989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Jaz&Emi AlamosII",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116883840622537268028\">A Google User</a>"
+        ],
+        "photo_reference": "AUacShg9QRy9Gy7-UwjmAQg0S5wrSz8Wq8d5nhn_NofHKkFiTIEQ1NEYZvOa8eNAutvZAjJA8QBzq-zV-AHm3MuDJVkQbA6o3F7ejnGTcPVU9hVCpc6Bq8PVpFB3RN8H_9PrR6mySTO-N3y1uskqyjFgXM9MALlnoL0QT3LGnT1dyk2uBB1B",
+        "width": 2604
+      }
+    ],
+    "place_id": "ChIJG2OJ2uk1Ar4Rg8Ay0-d9qhE",
+    "rating": 5,
+    "reference": "ChIJG2OJ2uk1Ar4Rg8Ay0-d9qhE",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "7W42+WJ, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7666861,
+        "lng": -65.0363199
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.76531902010727,
+          "lng": -65.03491617010728
+        },
+        "southwest": {
+          "lat": -42.76801867989271,
+          "lng": -65.03761582989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Sendero Koji Ishino",
+    "photos": [
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112703745563542563357\">Javier Facal</a>"
+        ],
+        "photo_reference": "AUacShhB1Ubt3jYkc0OZbbCpQ6jzX3mdOMt5v4u4w8wWJaDwSVwe5LG-PMVWqxxRSb6BynuSMqoa7BhsMOqf53w-8m0dWBnpNaUcy1SqN4rYIPkFP3Xz8bKPw1upXS0ObhP86qoV4LsF-R_w772LRylbmPWgsmbA0pAGT2lPp5W6Po6jIgzt",
+        "width": 2604
+      }
+    ],
+    "place_id": "ChIJKfKdR65LAr4RfyQjBqCRWkc",
+    "plus_code": {
+      "compound_code": "6XM7+8F Puerto Madryn, Chubut Province",
+      "global_code": "479P6XM7+8F"
+    },
+    "rating": 5,
+    "reference": "ChIJKfKdR65LAr4RfyQjBqCRWkc",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "28 de Julio, Bartolomé Mitre &, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7741881,
+        "lng": -65.038344
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.77278097010728,
+          "lng": -65.03682277010728
+        },
+        "southwest": {
+          "lat": -42.77548062989273,
+          "lng": -65.03952242989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Cada augusto",
+    "place_id": "ChIJnyerbM01Ar4RwkDs0G27ymE",
+    "plus_code": {
+      "compound_code": "6XG6+8M Puerto Madryn, Chubut Province",
+      "global_code": "479P6XG6+8M"
+    },
+    "rating": 0,
+    "reference": "ChIJnyerbM01Ar4RwkDs0G27ymE",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "Marcelo T. de Alvear 747, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7675968,
+        "lng": -65.0498487
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.76630757010727,
+          "lng": -65.04867802010727
+        },
+        "southwest": {
+          "lat": -42.76900722989271,
+          "lng": -65.05137767989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Parque",
+    "place_id": "ChIJtz7jEnE1Ar4RR_jwZagUcMk",
+    "plus_code": {
+      "compound_code": "6XJ2+X3 Puerto Madryn, Chubut Province",
+      "global_code": "479P6XJ2+X3"
+    },
+    "rating": 4.3,
+    "reference": "ChIJtz7jEnE1Ar4RR_jwZagUcMk",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "Roque Piccirillo 99, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7375332,
+        "lng": -65.03945209999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.73618912010728,
+          "lng": -65.03815482010728
+        },
+        "southwest": {
+          "lat": -42.73888877989273,
+          "lng": -65.04085447989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Paseo del Puerto",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112699449781185840125\">A Google User</a>"
+        ],
+        "photo_reference": "AUacShhN8KH4Ma6s34xRR_xVyFy7KUNge2I_rOD-YoncF5mJ47w9wR9ukQHu9tLHVk1Orb6MvVGYSCcihHWywtU7mqItGCKO5QezljtvpxHxH26TA35sOf2mVARzEAwrkbNXKEtU_5g0gZiHl-15cP4cRaFKl6ih7TTr38_j6ue6U3kAcaGf",
+        "width": 3472
+      }
+    ],
+    "place_id": "ChIJlTKWyBdLAr4RgRPR67FpS1s",
+    "plus_code": {
+      "compound_code": "7X66+X6 Puerto Madryn, Chubut Province",
+      "global_code": "479P7X66+X6"
+    },
+    "rating": 4.6,
+    "reference": "ChIJlTKWyBdLAr4RgRPR67FpS1s",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 69,
+    "vicinity": "Mlle. Alte. Storni, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7834908,
+        "lng": -65.066856
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.78211827010728,
+          "lng": -65.06543732010728
+        },
+        "southwest": {
+          "lat": -42.78481792989272,
+          "lng": -65.06813697989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "La cueva",
+    "place_id": "ChIJ62wDs8A1Ar4RfR41vq-PivA",
+    "plus_code": {
+      "compound_code": "6W8M+J7 Puerto Madryn, Chubut Province",
+      "global_code": "479P6W8M+J7"
+    },
+    "rating": 4,
+    "reference": "ChIJ62wDs8A1Ar4RfR41vq-PivA",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Manuel García 755, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7825954,
+        "lng": -65.0240834
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.78131227010727,
+          "lng": -65.02269382010728
+        },
+        "southwest": {
+          "lat": -42.78401192989271,
+          "lng": -65.02539347989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "El Genaaa",
+    "photos": [
+      {
+        "height": 1920,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104413081111142327336\">A Google User</a>"
+        ],
+        "photo_reference": "AUacShjCMN-cVGnZ5SK7MwxosuzYZMjH8w6Fzgaky8rDUqfsbok5GVffskg0x_GkMnBsulG7suv18bCdUP_JVTvQ2zjsttFB69IYxQGM432QaCYUYcLwAVPiFF6xqDORdkQTW_MGuodRm-2BxVdju1yq1MIilBrhxGFMSM1xhJzasymMOTpR",
+        "width": 2560
+      }
+    ],
+    "place_id": "ChIJMaRAzndLAr4RPnW8KDT0zsI",
+    "plus_code": {
+      "compound_code": "6X8G+X9 Puerto Madryn, Chubut Province",
+      "global_code": "479P6X8G+X9"
+    },
+    "rating": 3.7,
+    "reference": "ChIJMaRAzndLAr4RPnW8KDT0zsI",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Dorrego 71, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.76962169999999,
+        "lng": -65.0300322
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.76827187010727,
+          "lng": -65.02868237010728
+        },
+        "southwest": {
+          "lat": -42.77097152989271,
+          "lng": -65.03138202989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Juegos Infantiles Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110832777536809862434\">German Balbiani</a>"
+        ],
+        "photo_reference": "AUacShg2gyTV1HH27VUwV_ENxDw8_2BDQPbBJZivFicrWx_EWmVEXSpLCciY18zB9RpNP0VbgtODNZ8hsLWpT-lTposrzNgFTUf_1hjLu6a4HVz5HGORVikAL9MLYE6STxASVAOKVENEgvuv_Yyi_C4DLSJH4hHtGWG-tlkVzzJgyku8xBvW",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJSWF6zJ5KAr4RYZB6s_7WtLs",
+    "plus_code": {
+      "compound_code": "6XJ9+5X Puerto Madryn, Chubut Province",
+      "global_code": "479P6XJ9+5X"
+    },
+    "rating": 4.4,
+    "reference": "ChIJSWF6zJ5KAr4RYZB6s_7WtLs",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 103,
+    "vicinity": "Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7536265,
+        "lng": -65.0433456
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.75235712010728,
+          "lng": -65.04200517010727
+        },
+        "southwest": {
+          "lat": -42.75505677989273,
+          "lng": -65.04470482989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Bernardo Houssay Park",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117693726521797378677\">Gabriela Torres</a>"
+        ],
+        "photo_reference": "AUacShidlBIO547EBTQG7oZCE40E3lpfjnn7FJw2vSD03koQZ7acqTkVGMHtIHhq_vY4igVXGFZjAR10j_3ywc88Ea1sXUYFdqIApVhgoy4LqjFAbcsfpKcMw_Tjc-fu7_K4mp5ByNP47cN9G2FI7AhJvloz1t1T5If3H-zrtOc2eJdftnjA",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJTyCk4bpLAr4RhBp15B3iLOE",
+    "plus_code": {
+      "compound_code": "6XW4+GM Puerto Madryn, Chubut Province",
+      "global_code": "479P6XW4+GM"
+    },
+    "rating": 4.6,
+    "reference": "ChIJTyCk4bpLAr4RhBp15B3iLOE",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 69,
+    "vicinity": "Linier, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7772353,
+        "lng": -65.0353023
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.77542257010727,
+          "lng": -65.03424072010728
+        },
+        "southwest": {
+          "lat": -42.77812222989272,
+          "lng": -65.03694037989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Ciudad Park",
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101627921033447974069\">A Google User</a>"
+        ],
+        "photo_reference": "AUacShiYl1zAyPqe9uoRh_m8SPqiJ5fLEqJ8KtIzEDWrB-tA9RRogL0toKIfKamD7PVTF7yhxXI6ajLQWYb852HBlxIiRk7HDgmUzTkNsSqsCcEvfBj92QnKEhPrpZvMRvxf4llMgWPWSxySbJAVfLDiFTu93iby8FZuoH0i0JJvL88zWI8A",
+        "width": 1840
+      }
+    ],
+    "place_id": "ChIJr5ZM5F41Ar4R86erkxzZsmY",
+    "plus_code": {
+      "compound_code": "6XF7+4V Puerto Madryn, Chubut Province",
+      "global_code": "479P6XF7+4V"
+    },
+    "rating": 3.6,
+    "reference": "ChIJr5ZM5F41Ar4R86erkxzZsmY",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "Mariano Moreno 400-498, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7731875,
+        "lng": -65.0014375
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.77183767010728,
+          "lng": -65.00008767010728
+        },
+        "southwest": {
+          "lat": -42.77453732989272,
+          "lng": -65.00278732989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Albatros con oeste",
+    "place_id": "ChIJu06MpGtLAr4RWafW2_jMSr4",
+    "rating": 0,
+    "reference": "ChIJu06MpGtLAr4RWafW2_jMSr4",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "6XGX+PC, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7800518,
+        "lng": -64.9937459
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.7790034,
+          "lng": -64.99306075
+        },
+        "southwest": {
+          "lat": -42.783197,
+          "lng": -64.99580135000001
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Plataforma Dive Master Buceo",
+    "place_id": "ChIJOaroKrlLAr4RFjtM5ptc_Qs",
+    "rating": 0,
+    "reference": "ChIJOaroKrlLAr4RFjtM5ptc_Qs",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "6294+XG, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7830731,
+        "lng": -65.0188728
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.78158372010727,
+          "lng": -65.01761067010727
+        },
+        "southwest": {
+          "lat": -42.78428337989271,
+          "lng": -65.02031032989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Plazoleta Presidente Perón",
+    "opening_hours": {},
+    "photos": [
+      {
+        "height": 4608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116159881557718780751\">Natalia Perez</a>"
+        ],
+        "photo_reference": "AUacShg73iSB4Hsw8wPaGdAhhvUfwSCg6uKMBML3-MURBPQ-rjDrcF7d2WwI4k-2mwdQ08w-NE874MBnUbkq93YTh5dU6Ys6-zbsqirjNCX7fBIrfZgbG1vVk0FQoEz-jVThvlmQjhrCLSjKFYLz3006j3B17ep3V4JL0nb-esxBMawQQ33c",
+        "width": 3456
+      }
+    ],
+    "place_id": "ChIJGTK3P6lKAr4RF7zisdHPdsw",
+    "plus_code": {
+      "compound_code": "6X8J+QF Puerto Madryn, Chubut Province",
+      "global_code": "479P6X8J+QF"
+    },
+    "rating": 3.7,
+    "reference": "ChIJGTK3P6lKAr4RF7zisdHPdsw",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 115,
+    "vicinity": "Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.767491,
+        "lng": -65.0317367
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.76614117010728,
+          "lng": -65.03038687010726
+        },
+        "southwest": {
+          "lat": -42.76884082989272,
+          "lng": -65.03308652989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Mosaiquismo",
+    "photos": [
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112703745563542563357\">Javier Facal</a>"
+        ],
+        "photo_reference": "AUacShj-BfxIyZp7EbTv-GigjGRy3NYivwHgoc7H2RHzfj7Iknivk44OYFfjaJdezAh0u6doXG-RiQjzqiNDxp85bnJh8a8cOJts9beZXsKZkJkIXXd0ySUdiOq8b2hnJ7HqjdfCHBOioI-NkXBEwQTj0p4ahhxA9SXo5WEIQQa6o8riM6hm",
+        "width": 2604
+      }
+    ],
+    "place_id": "ChIJcaHEBvVLAr4RzeBQdCjeEA8",
+    "plus_code": {
+      "compound_code": "6XM9+28 Puerto Madryn, Chubut Province",
+      "global_code": "479P6XM9+28"
+    },
+    "rating": 4,
+    "reference": "ChIJcaHEBvVLAr4RzeBQdCjeEA8",
+    "scope": "GOOGLE",
+    "types": [
+      "tourist_attraction",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Paseo costero, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.76513,
+        "lng": -65.037326
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.76375532010727,
+          "lng": -65.03590732010728
+        },
+        "southwest": {
+          "lat": -42.76645497989272,
+          "lng": -65.03860697989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Video Mundo",
+    "place_id": "ChIJNTpV05xKAr4RAe-oDx9RrEw",
+    "plus_code": {
+      "compound_code": "6XM7+W3 Puerto Madryn, Chubut Province",
+      "global_code": "479P6XM7+W3"
+    },
+    "rating": 0,
+    "reference": "ChIJNTpV05xKAr4RAe-oDx9RrEw",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "Bartolomé Mitre 47 17, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7806025,
+        "lng": -65.0222611
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.77931902010727,
+          "lng": -65.02110727010728
+        },
+        "southwest": {
+          "lat": -42.78201867989272,
+          "lng": -65.02380692989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Plaza El Desembarco",
+    "opening_hours": {},
+    "photos": [
+      {
+        "height": 2448,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108303706921932440956\">valeri aguirre</a>"
+        ],
+        "photo_reference": "AUacShj5B-orQ8cW2-VfUx6aHWIiyb3OBhiEFRZMdjAa6BJsYJC7ZckL4tFpQdfPgsEUjArbikab0CePR9YTqfLfVG_ea_MeBeWCdGJM0C1acSS73Kgr-JeKj1mAIAXea0HYoMkD0QIGshOe1YsfX7En_1zGgCq-f0kih1hvG7NLKiaiTFGW",
+        "width": 3264
+      }
+    ],
+    "place_id": "ChIJickrg6hKAr4RCfa-FWfiA9M",
+    "plus_code": {
+      "compound_code": "6X9H+Q3 Puerto Madryn, Chubut Province",
+      "global_code": "479P6X9H+Q3"
+    },
+    "rating": 4.1,
+    "reference": "ChIJickrg6hKAr4RCfa-FWfiA9M",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 182,
+    "vicinity": "Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7871576,
+        "lng": -65.0182547
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.78592187010728,
+          "lng": -65.01688797010728
+        },
+        "southwest": {
+          "lat": -42.78862152989272,
+          "lng": -65.01958762989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Plaza escritores patagonicos",
+    "photos": [
+      {
+        "height": 2322,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111675083579144747949\">Juan Ignacio Vissani</a>"
+        ],
+        "photo_reference": "AUacShgmJembbcDTzewo8whMtq20Xrru8YVkzK0Wf_c-RkiNcOEh3SFoCS-JeezFnfYMmkW_yLXVnHmR_1LQIlF94f_mgOWAjWOacAy9M_VzmOp3i6wn0An9qSv2m6y2u2riYaz9I4mi2mlrlC6VfbnGGcIenmWsXGLGOJlEI23sLxTOYzAU",
+        "width": 4128
+      }
+    ],
+    "place_id": "ChIJqTHt-apKAr4RRsfIrtmjEXY",
+    "plus_code": {
+      "compound_code": "6X7J+4M Puerto Madryn, Chubut Province",
+      "global_code": "479P6X7J+4M"
+    },
+    "rating": 4.1,
+    "reference": "ChIJqTHt-apKAr4RRsfIrtmjEXY",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 34,
+    "vicinity": "Pje. Libertad 19-199, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.753536,
+        "lng": -65.0442667
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.75203432010728,
+          "lng": -65.04291037010728
+        },
+        "southwest": {
+          "lat": -42.75473397989272,
+          "lng": -65.04561002989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Plaza Copada",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103198475448568866785\">Carla Di Salvatore</a>"
+        ],
+        "photo_reference": "AUacShhyHPg1kB0ZzfQa20v2LFR5ENw05dphkS5ttKPe10B-9D6vzdQwcNmMVxuljfrxAN9n1NWNp8dNDNhQfIy_mYe2avoldPtnbC1rzVSbPm_xq9haZyK__OsipFcTYAv1WzlCOWioFd0SBXfxj0ijE_f31pNYgvgNO4owstlcQKT0N3yE",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJJb1EY6hLAr4RnW4Cb8l4H_8",
+    "plus_code": {
+      "compound_code": "6XW4+H7 Puerto Madryn, Chubut Province",
+      "global_code": "479P6XW4+H7"
+    },
+    "rating": 4.7,
+    "reference": "ChIJJb1EY6hLAr4RnW4Cb8l4H_8",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 491,
+    "vicinity": "Liniers 569-799, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7802412,
+        "lng": -65.0319868
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.77896697010728,
+          "lng": -65.03086827010728
+        },
+        "southwest": {
+          "lat": -42.78166662989273,
+          "lng": -65.03356792989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Laguna De Puerto Madryn",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101627921033447974069\">A Google User</a>"
+        ],
+        "photo_reference": "AUacShiUxFurd5R4vdTIuzxXe7eZ2fH8pWRi5VW-rMeVALtTz0xIu8jTBLTe2qNtONZkW5eueaUPFy6LQMhk1ekRxCy-i4bkBd8aK2pkP4Jc4fvNafhpDFr0AQ4Mx6IN1-azTgBswLRjkmQyVuSqrpJ8wUeUlbNVltt4n9sxUotxMFpfI_6e",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJwxCyCVk1Ar4RNEUKL0PHKVU",
+    "plus_code": {
+      "compound_code": "6X99+W6 Puerto Madryn, Chubut Province",
+      "global_code": "479P6X99+W6"
+    },
+    "rating": 3.5,
+    "reference": "ChIJwxCyCVk1Ar4RNEUKL0PHKVU",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 242,
+    "vicinity": "Gdor. Alejandro Maiz 1400-1600, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.77921509999999,
+        "lng": -65.0290515
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.77786527010728,
+          "lng": -65.02770167010726
+        },
+        "southwest": {
+          "lat": -42.78056492989273,
+          "lng": -65.03040132989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Plaza España",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101627921033447974069\">A Google User</a>"
+        ],
+        "photo_reference": "AUacShjRR3CrLQq_-TCL7BKEKEJDnlmz1WrU9vmTlygdkazUJWuvX3Vr72MpaEnRp3g6hQi6Y5UTIgdgTeJvWxAef0hfd200h7LBykKYGMN4vxC_wSwCjJjnjJxMvrbtYIYgD3bEVKwdBB8-w9DA1LQfpNaJTTE8as4gdVUpg98oe_sU0zhh",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJZ3OBj1g1Ar4RmpmYF5eYWCQ",
+    "plus_code": {
+      "compound_code": "6XCC+89 Puerto Madryn, Chubut Province",
+      "global_code": "479P6XCC+89"
+    },
+    "rating": 4.4,
+    "reference": "ChIJZ3OBj1g1Ar4RmpmYF5eYWCQ",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 579,
+    "vicinity": "Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7842411,
+        "lng": -65.0259277
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.78289127010728,
+          "lng": -65.02457787010728
+        },
+        "southwest": {
+          "lat": -42.78559092989272,
+          "lng": -65.02727752989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Plaza Euzkadi",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 2584,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116762210219513778558\">Ilán Vivanco</a>"
+        ],
+        "photo_reference": "AUacShgPRIw4ipQl1sxAx5Gktw8ukAtZYFfaXX48wcwRQXiwrSadElya0cuNU1ui_DiMH-kNupgxUh4Tz-zeFM1w9XOP1YjkUgF0nWMutUZ7EM3BMC7o9SEBwJzn96VRQs8DO86HwB5tPwMrhLnvugdF2sASsK0Wg-P-sAWNtQ2G04XHhAlr",
+        "width": 3876
+      }
+    ],
+    "place_id": "ChIJ4XOARVY1Ar4RdGjY-5wiat0",
+    "plus_code": {
+      "compound_code": "6X8F+8J Puerto Madryn, Chubut Province",
+      "global_code": "479P6X8F+8J"
+    },
+    "rating": 4.1,
+    "reference": "ChIJ4XOARVY1Ar4RdGjY-5wiat0",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 181,
+    "vicinity": "Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7613672,
+        "lng": -65.0687143
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.76000297010728,
+          "lng": -65.06736502010727
+        },
+        "southwest": {
+          "lat": -42.76270262989272,
+          "lng": -65.07006467989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Das Neves",
+    "place_id": "ChIJVS7bsgs1Ar4RRPF_leVe3Vc",
+    "plus_code": {
+      "compound_code": "6WQJ+FG Puerto Madryn, Chubut Province",
+      "global_code": "479P6WQJ+FG"
+    },
+    "rating": 4.7,
+    "reference": "ChIJVS7bsgs1Ar4RRPF_leVe3Vc",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.776715,
+        "lng": -65.03415129999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.77536517010728,
+          "lng": -65.03280147010727
+        },
+        "southwest": {
+          "lat": -42.77806482989272,
+          "lng": -65.03550112989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "posta 3",
+    "place_id": "ChIJCV6A_kA1Ar4Ri9k27PbNdNk",
+    "plus_code": {
+      "compound_code": "6XF8+88 Puerto Madryn, Chubut Province",
+      "global_code": "479P6XF8+88"
+    },
+    "rating": 0,
+    "reference": "ChIJCV6A_kA1Ar4Ri9k27PbNdNk",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.781814,
+        "lng": -65.00102749999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.78046422010728,
+          "lng": -64.99970992010726
+        },
+        "southwest": {
+          "lat": -42.78316387989273,
+          "lng": -65.00240957989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Burger Point",
+    "place_id": "ChIJqQvvGWhLAr4RmDSBXLq1mKg",
+    "plus_code": {
+      "compound_code": "6X9X+7J Puerto Madryn, Chubut Province",
+      "global_code": "479P6X9X+7J"
+    },
+    "rating": 0,
+    "reference": "ChIJqQvvGWhLAr4RmDSBXLq1mKg",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.77752,
+        "lng": -65.0213717
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.77633297010727,
+          "lng": -65.02026007010727
+        },
+        "southwest": {
+          "lat": -42.77903262989272,
+          "lng": -65.02295972989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Playa Puerto Madryn",
+    "photos": [
+      {
+        "height": 3120,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115961683488273667360\">Enzo</a>"
+        ],
+        "photo_reference": "AUacShhZyQU74gE3zb_tKnh9SsUaIfb9D-yXXzUhAy1LUIyxd3rXDM0CHEFWPjX3XeBa_iH1bbPUkzYeWMnsuVxRG2Vsg5uxP2hc9dFKb_irObgxzEzWIsY-Yo2GWv9r1yClcvPm8-uhqb1njQsTHkLStY4r1tjl2lh6xCOLEAaXoksz0Hzo",
+        "width": 4160
+      }
+    ],
+    "place_id": "ChIJD8_k9jNLAr4Re3fiVbNoifs",
+    "plus_code": {
+      "compound_code": "6XCH+XF Puerto Madryn, Chubut Province",
+      "global_code": "479P6XCH+XF"
+    },
+    "rating": 4.6,
+    "reference": "ChIJD8_k9jNLAr4Re3fiVbNoifs",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "Bv. Almte Brown, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7664609,
+        "lng": -65.1014923
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.76576402010728,
+          "lng": -65.09968482010727
+        },
+        "southwest": {
+          "lat": -42.76846367989272,
+          "lng": -65.10238447989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Cementerio Parque Puerto Madryn",
+    "photos": [
+      {
+        "height": 2268,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115810763089009513863\">Miguel Angel Suñé</a>"
+        ],
+        "photo_reference": "AUacShi4QWH4OAakIsGFEKuyDMrltqaxranOvo_tHm1Gn8Mrv8UTc9bv1no8KUZ3D6YelPxetuh_Yp0jlthiHBrSk2_cmJ439WTkeGRqK99iuM1U2gDDAwItBY5MUrX9yJM-KG4zYkVS48kdISOJpD-eyjm953iB461KsEJ8tRPC7GXQEqZq",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJtWUHouc1Ar4RFXHukgzCdjo",
+    "plus_code": {
+      "compound_code": "6VMX+CC Puerto Madryn, Chubut Province",
+      "global_code": "479P6VMX+CC"
+    },
+    "rating": 4.7,
+    "reference": "ChIJtWUHouc1Ar4RFXHukgzCdjo",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 20,
+    "vicinity": "Ruta Acceso Sur, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7658832,
+        "lng": -65.0336122
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.76450472010728,
+          "lng": -65.03217997010726
+        },
+        "southwest": {
+          "lat": -42.76720437989272,
+          "lng": -65.03487962989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Patagonia Point",
+    "place_id": "ChIJBRsAv_1LAr4RgD1lMUOut1U",
+    "plus_code": {
+      "compound_code": "6XM8+JH Puerto Madryn, Chubut Province",
+      "global_code": "479P6XM8+JH"
+    },
+    "rating": 0,
+    "reference": "ChIJBRsAv_1LAr4RgD1lMUOut1U",
+    "scope": "GOOGLE",
+    "types": [
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "Av. Julio Argentino Roca 223, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7742517,
+        "lng": -65.0342495
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.77295777010728,
+          "lng": -65.03306497010728
+        },
+        "southwest": {
+          "lat": -42.77565742989272,
+          "lng": -65.03576462989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Jardin",
+    "place_id": "ChIJBX315l81Ar4R4hyaTBegh40",
+    "plus_code": {
+      "compound_code": "6XG8+78 Puerto Madryn, Chubut Province",
+      "global_code": "479P6XG8+78"
+    },
+    "rating": 0,
+    "reference": "ChIJBX315l81Ar4R4hyaTBegh40",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "San Martín 852, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.736725,
+        "lng": -65.0404885
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.73539037010728,
+          "lng": -65.03927502010727
+        },
+        "southwest": {
+          "lat": -42.73809002989272,
+          "lng": -65.04197467989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Mural \"El Regreso\"",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 423,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100097464480644518629\">100097464480644518629</a>"
+        ],
+        "photo_reference": "AUacShhU2E8B1roprYWsn_i2sl7MGj7d2hxQHMHsEzTqnbhv5tSUSIZCe-v_7Q848BPKuc-XiwDTCCh-RiP3Vus9EXvsqbDP2905-yPw77NmNWgQY-o3ZGOh0SjU-uJ_ilgF9TEBuDV5GvULFE4llk0ndib_6WrNwyonenaJjr_j12Olm3oG",
+        "width": 770
+      }
+    ],
+    "place_id": "ChIJj4pgAqxLAr4RE_vC3yuSesI",
+    "plus_code": {
+      "compound_code": "7X75+8R Puerto Madryn, Chubut Province",
+      "global_code": "479P7X75+8R"
+    },
+    "rating": 4.3,
+    "reference": "ChIJj4pgAqxLAr4RE_vC3yuSesI",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "Entrada al Muelle Almirante Storni, RP1, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7618075,
+        "lng": -65.03762739999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.76045767010727,
+          "lng": -65.03627757010727
+        },
+        "southwest": {
+          "lat": -42.76315732989272,
+          "lng": -65.03897722989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "name": "Burger Point",
+    "opening_hours": {
+      "open_now": true
+    },
+    "place_id": "ChIJ7WRESiVLAr4RUWcMB89uPgE",
+    "plus_code": {
+      "compound_code": "6XQ6+7W Puerto Madryn, Chubut Province",
+      "global_code": "479P6XQ6+7W"
+    },
+    "rating": 3,
+    "reference": "ChIJ7WRESiVLAr4RUWcMB89uPgE",
+    "scope": "GOOGLE",
+    "types": [
+      "restaurant",
+      "food",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Furnillo 118. Furnillo, Paulina Escardo y, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7996793,
+        "lng": -65.0796239
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.79886847010728,
+          "lng": -65.07794597010728
+        },
+        "southwest": {
+          "lat": -42.80156812989272,
+          "lng": -65.08064562989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Los dos amigos - sergio maximiliano pazos",
+    "place_id": "ChIJVdyBPXA1Ar4RJu7bSy1hC4k",
+    "rating": 0,
+    "reference": "ChIJVdyBPXA1Ar4RJu7bSy1hC4k",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "6W2C+45, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7646248,
+        "lng": -65.03750930000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.76329137010728,
+          "lng": -65.03614887010727
+        },
+        "southwest": {
+          "lat": -42.76599102989272,
+          "lng": -65.03884852989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Cressi Sub S.c.a",
+    "opening_hours": {
+      "open_now": true
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115582075292535609115\">Matias Perez</a>"
+        ],
+        "photo_reference": "AUacShhg_ltJ8EqamXKnGNyzMGBMAjnFJ3SNcqcGseSf60s3fFWD78kjJTgcX9PIuL8m83Ax_JsCC4M4iSMPDBJ-fN5SQDD1qYNrqZhUnPrt1BPw10qS2ZbqG_ghgrpinWJxAnVUJK2UTpnYjMZzpUOnbAjAG4BBwS-BI_hAeVfI7RrKMoHt",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJz9lBL4NKAr4RrlRKnzHMLhs",
+    "plus_code": {
+      "compound_code": "6XP6+5X Puerto Madryn, Chubut Province",
+      "global_code": "479P6XP6+5X"
+    },
+    "rating": 5,
+    "reference": "ChIJz9lBL4NKAr4RrlRKnzHMLhs",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Hipólito Yrigoyen 200, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.76513,
+        "lng": -65.037326
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.76375532010727,
+          "lng": -65.03590732010728
+        },
+        "southwest": {
+          "lat": -42.76645497989272,
+          "lng": -65.03860697989272
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Ready",
+    "place_id": "ChIJNTpV05xKAr4RZ7XqlNLN9Ek",
+    "plus_code": {
+      "compound_code": "6XM7+W3 Puerto Madryn, Chubut Province",
+      "global_code": "479P6XM7+W3"
+    },
+    "rating": 5,
+    "reference": "ChIJNTpV05xKAr4RZ7XqlNLN9Ek",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Bartolomé Mitre 47 51, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7644913,
+        "lng": -65.03369649999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.76314147010727,
+          "lng": -65.03234667010726
+        },
+        "southwest": {
+          "lat": -42.76584112989272,
+          "lng": -65.03504632989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#13B5C7",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Monumento a los Pioneros del buceo",
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103407223865608718385\">Marcelo Marchesi</a>"
+        ],
+        "photo_reference": "AUacShgxVsG0_3ybcw5pP99cPJ8EAEKWJPyUwO6mN238kMKjSycAipnxwcxh9XhfWnxqbnLD9_7VE1mLQUbL2aziZSDVIPh9H7Du91CKSaTZgXy_-Ru3YDWLBYFn6M15rqu8ukueptOpPy1n4cwrReor0HuPWsdzgEUlz8g43xeFiZacbgkE",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ5XDZusxLAr4RfEKgvciLzcE",
+    "plus_code": {
+      "compound_code": "6XP8+6G Puerto Madryn, Chubut Province",
+      "global_code": "479P6XP8+6G"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ5XDZusxLAr4RfEKgvciLzcE",
+    "scope": "GOOGLE",
+    "types": [
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.7671161,
+        "lng": -65.0324515
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.76579042010728,
+          "lng": -65.03117327010726
+        },
+        "southwest": {
+          "lat": -42.76849007989272,
+          "lng": -65.03387292989271
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "el pati",
+    "photos": [
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104058473854052833057\">A Google User</a>"
+        ],
+        "photo_reference": "AUacShi-e87ovK7hNFHOzLe-W1BGxSkpHy6z4mWli8OgkJii30FvfYl1-Y2x8Wb2kI5G6OXEC5lcWvjEPff1QvSCN9308yHUoobXrEGFilox45H0qqNEvvzG7LPLmTIL-PM2Mbvq4qvyLVKFKhEespcChBnue6jzA4LAisbc7UCFS00rxQ3H",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJMcv7DDhLAr4RoTcv5zg0uQQ",
+    "plus_code": {
+      "compound_code": "6XM9+52 Puerto Madryn, Chubut Province",
+      "global_code": "479P6XM9+52"
+    },
+    "rating": 4,
+    "reference": "ChIJMcv7DDhLAr4RoTcv5zg0uQQ",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Av. Julio Argentino Roca N353, Puerto Madryn"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": -42.80111770000001,
+        "lng": -64.9948634
+      },
+      "viewport": {
+        "northeast": {
+          "lat": -42.79976832010728,
+          "lng": -64.99351287010728
+        },
+        "southwest": {
+          "lat": -42.80246797989272,
+          "lng": -64.99621252989273
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+    "icon_background_color": "#4DB546",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+    "name": "Paseo ciclista",
+    "photos": [
+      {
+        "height": 2325,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116050321494427824342\">Daniel Tecnico</a>"
+        ],
+        "photo_reference": "AUacShhxUeV3cpnt_SwMoH6itoDWdExTHMGmTMWNzbfRMu6k8QCsIuN_q6YvwW3XNBLIrcQRhk9_X41d_ktb6I0tBeWfLbOMPt_y9-Y0pqLvEisSlC9pUBgDGCfawcD3jCcVn5PZacmqldij-ooilGQ2LHAEfEC8Sv-E8SsCEqyuNP99r5f0",
+        "width": 1537
+      }
+    ],
+    "place_id": "ChIJL7BWPPK1A74Relu_nUr2GTc",
+    "rating": 0,
+    "reference": "ChIJL7BWPPK1A74Relu_nUr2GTc",
+    "scope": "GOOGLE",
+    "types": [
+      "park",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 0,
+    "vicinity": "52X4+H3, Puerto Madryn"
+  }
+]

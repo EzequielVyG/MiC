@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url><loc>http://localhost</loc><lastmod>2023-12-20T15:59:45.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost/aboutMIC</loc><lastmod>2023-12-20T15:59:45.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost/agenda</loc><lastmod>2023-12-20T15:59:45.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost/auth/signin</loc><lastmod>2023-12-20T15:59:45.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost/circuits</loc><lastmod>2023-12-20T15:59:45.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost/faq</loc><lastmod>2023-12-20T15:59:45.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost/home</loc><lastmod>2023-12-20T15:59:45.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost/home/circuits</loc><lastmod>2023-12-20T15:59:45.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost/home/events</loc><lastmod>2023-12-20T15:59:45.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost/home/places</loc><lastmod>2023-12-20T15:59:45.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost/mi_perfil</loc><lastmod>2023-12-20T15:59:45.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost/mi_perfil/change-password</loc><lastmod>2023-12-20T15:59:45.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost/mi_perfil/my_agenda</loc><lastmod>2023-12-20T15:59:45.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost/mi_perfil/my_events</loc><lastmod>2023-12-20T15:59:45.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost/mi_perfil/my_linked_accounts</loc><lastmod>2023-12-20T15:59:45.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost/mi_perfil/my_organizations</loc><lastmod>2023-12-20T15:59:45.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost/mi_perfil/my_preferences</loc><lastmod>2023-12-20T15:59:45.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost/mi_perfil/my_profile</loc><lastmod>2023-12-20T15:59:45.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost/notifications</loc><lastmod>2023-12-20T15:59:45.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost/organization/detail</loc><lastmod>2023-12-20T15:59:45.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost/permissionDenied</loc><lastmod>2023-12-20T15:59:45.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost/register</loc><lastmod>2023-12-20T15:59:45.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost/register/error-register</loc><lastmod>2023-12-20T15:59:45.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+<url><loc>http://localhost/restorePassword</loc><lastmod>2023-12-20T15:59:45.348Z</lastmod><changefreq>daily</changefreq><priority>0.7</priority></url>
+</urlset>
